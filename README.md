@@ -8,7 +8,7 @@
 
 <br />
 
-### I'm a College student, Developer, and Tutor!
+### I'm a College student, Tutor, and Developer!
 - 🌱 I want to learn more programming languages
 - ⚡ Fun fact: I love to watch movies/series/anime and listen to music
 

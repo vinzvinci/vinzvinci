@@ -1,11 +1,11 @@
 <h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
-<img src="https://user-images.githubusercontent.com/73097560/97100419-58927780-16ce-11eb-9c7a-a7180cb7ef81.png">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/97100419-58927780-16ce-11eb-9c7a-a7180cb7ef81.png" width="506" height="165">
 
 ### Connect with me:
-[<img align="center" alt="Vintus.Pro1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="center" alt="vinz_vinci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="center" alt="UCx1vgCtjLR4iVeL9R_KeysA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center" alt="vincent-villafuerte-5892891b5/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt="Vintus.Pro1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img alt="vinz_vinci | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img alt="UCx1vgCtjLR4iVeL9R_KeysA | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img alt="vincent-villafuerte-5892891b5/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 

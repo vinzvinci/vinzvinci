@@ -12,7 +12,7 @@
 ### I'm a College student, Tutor, and Developer!
 - 🌱 I want to improve myself and continue learning
 - 🌟 I want to encourage others and inspire them
-- ⚡ Fun fact: I love to watch movies/series/anime and listen to music
+- 💖 I love to watch movies/series/anime and listen to music
 
 <br />
 

@@ -1,9 +1,3 @@
-<html>
- <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
 <h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/97100419-58927780-16ce-11eb-9c7a-a7180cb7ef81.png" width="100%" height="365">
 
@@ -46,5 +40,3 @@
 [youtube]: https://www.youtube.com/channel/UCx1vgCtjLR4iVeL9R_KeysA
 [instagram]: https://instagram.com/vinz_vinci
 [linkedin]: https://www.linkedin.com/in/vincent-villafuerte-5892891b5/
-</body>
-</html>

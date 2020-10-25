@@ -13,6 +13,7 @@
 - 🌱 I want to improve myself and continue learning
 - 🌟 I want to encourage others and inspire them
 - 💖 I love to watch movies/series/anime and listen to music
+- 🔑 College Goals : Help my fellow students for their career
 
 <br />
 

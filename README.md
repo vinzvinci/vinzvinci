@@ -1,4 +1,6 @@
 <h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
+![vinzvinci98-profilecard](https://user-images.githubusercontent.com/73097560/97100403-2e40ba00-16ce-11eb-83eb-a8070a53c75e.png)
+
 
 ### Connect with me:
 [<img align="center" alt="Vintus.Pro1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

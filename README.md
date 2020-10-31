@@ -11,6 +11,7 @@
 
 ### I'm a College student, Tutor, and Developer!
 - 🌱 I want to improve myself and continue learning
+- 🌱 I'm currently learning python and c++
 - 🌟 I want to encourage others and inspire them
 - 💖 I love to watch movies/series/anime and listen to music
 - 🔑 College Goals : Help my fellow students for their career goals

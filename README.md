@@ -9,7 +9,7 @@
 
 <br />
 
-### I'm a College student, Tutor, and Developer!
+### I'm a College student, Mentor, and Developer!
 - 🌱 I want to improve myself and continue learning
 - 🌱 I'm currently learning python and c++
 - 🌟 I want to encourage others and inspire them

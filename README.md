@@ -45,7 +45,7 @@
 <br />
 
 ##
-<img align="left" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vinzvinci98&show_icons=true&hide_border=true&hide=contribs" />
+<img align="left" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&theme=radical&show_icons=true" />
 
 [facebook]: https://web.facebook.com/Vintus.Pro1/
 [youtube]: https://www.youtube.com/channel/UCx1vgCtjLR4iVeL9R_KeysA

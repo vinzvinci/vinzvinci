@@ -18,18 +18,8 @@
 
 <br />
 
-### Team Building
-- <a href="https://github.com/weresponse">https://github.com/weresponse</a>
-
-<br />
-
 ### My Portfolio
 - <a href="https://vinzvinci98.github.io/">Portfolio</a>
-
-<br />
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="bill.beldessi Spotify Playing" width="350" />](https://open.spotify.com/user/bill.beldessi)
 
 <br />
 
@@ -45,7 +35,7 @@
 <br />
 
 ##
-<img align="left" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&theme=radical&show_icons=true" />
+<img width="100%" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&theme=radical&show_icons=true" />
 
 [facebook]: https://web.facebook.com/Vintus.Pro1/
 [youtube]: https://www.youtube.com/channel/UCx1vgCtjLR4iVeL9R_KeysA

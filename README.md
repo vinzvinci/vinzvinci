@@ -1,5 +1,6 @@
 <h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/97100419-58927780-16ce-11eb-9c7a-a7180cb7ef81.png" width="100%" height="365">
+<img align="center" src="https://user-images.githubusercontent.com/73097560/102240732-25809d80-3f33-11eb-8def-680ff5cfcb2a.png" width="100%" height="365">
+
 
 ### Connect with me:
 [<img alt="Vintus.Pro1 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]

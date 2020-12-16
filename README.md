@@ -11,7 +11,7 @@
 
 ### I'm a College student and Mentor!
 - 🌱 I want to improve myself and continue learning
-- 🌱 I'm currently learning reactjs and laravel
+- 🌱 I'm currently learning reactjs, ruby, and ruby on rails
 - 🌟 I want to encourage others and inspire them
 - 💖 I love to watch movies/series/anime and listen to music
 - 🔑 College Goals : Help my fellow students for their career goals
@@ -33,6 +33,7 @@
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
 <br />
 
 <img width="100%" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&theme=radical&show_icons=true" />

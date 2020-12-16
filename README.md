@@ -9,7 +9,7 @@
 
 <br />
 
-### I'm a College student, Mentor, and Developer!
+### I'm a College student and Mentor!
 - 🌱 I want to improve myself and continue learning
 - 🌱 I'm currently learning reactjs and laravel
 - 🌟 I want to encourage others and inspire them

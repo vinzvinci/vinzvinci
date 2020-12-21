@@ -20,7 +20,9 @@
 
 ### Join to my local tech community in discord and github.
 - <a href="https://github.com/Surpath-Community/hacktoberfest-preparation">Surpath-Community</a>
-`The community is new but this will be active in 2021`
+`
+This community is only for Philippines. The community is new and this will be active in 2021.
+`
 
 <br />
 

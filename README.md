@@ -18,8 +18,9 @@
 
 <br />
 
-### My Portfolio
-- <a href="https://vinzvinci98.github.io/">Portfolio</a>
+### Join to my local tech community in discord and github.
+- <a href="https://github.com/Surpath-Community/hacktoberfest-preparation">Surpath-Community</a>
+`The community is new but this will be active in 2021`
 
 <br />
 

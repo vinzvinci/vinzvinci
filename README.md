@@ -34,15 +34,12 @@ This community is only for Philippines. The community is new and this will be ac
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Visual-basic" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
+<br>
+
+### 
 
 <img width="100%" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&count_private=true&theme=radical&show_icons=true" />
 
-[facebook]: https://web.facebook.com/Vintus.Pro1/
-[youtube]: https://www.youtube.com/channel/UCx1vgCtjLR4iVeL9R_KeysA
-[instagram]: https://instagram.com/vinz_vinci
-[linkedin]: https://www.linkedin.com/in/vincent-villafuerte-5892891b5/

@@ -12,7 +12,7 @@
 
 ### I'm a College student and Mentor!
 - 🌱 I want to improve myself and continue learning
-- 🌱 I'm currently learning reactjs, ruby, and ruby on rails
+- 🌱 New Year's Resolution: learn javascript, reactjs, php, laravel, | familiarizing with ruby, rails
 - 🌟 I want to encourage others and inspire them
 - 💖 I love to watch movies/series/anime and listen to music
 - 🔑 College Goals : Help my fellow students for their career goals

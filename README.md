@@ -22,7 +22,7 @@
 ### Join to my local tech community in discord and github.
 #### <a href="https://github.com/Surpath-Community/hacktoberfest-preparation">Surpath-Community</a><br>
 
-` - This community is only for Philippines. The community is new and this will be active in 2021. `
+` - Surpath is an open source community that helps everyone in the Philippines to achieve their dream. `
 
 <br />
 

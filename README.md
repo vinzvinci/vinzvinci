@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/vinz_vinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/vincent-villafuerte-5892891b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://vinzvinci98.github.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fvinzvinci98.github.io%2F" height=25></a>
- <a href="https://img.shields.io/youtube/views/UCjA75ni_WO_AoyWsLxnnwjA?style=social"></a>
+<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img src="https://img.shields.io/youtube/views/UCjA75ni_WO_AoyWsLxnnwjA?style=social" height=25></a>
 </p>
 
 <br />

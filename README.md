@@ -21,7 +21,7 @@
 <br />
 
 ### Join to my local tech community in discord and github.
-#### <a href="https://github.com/Surpath-Community/hacktoberfest-preparation">Surpath-Community</a><br>
+#### <a href="https://github.com/surpathcommunity">Surpath-Community</a><br>
 
 ` - Surpath is an open source community that helps everyone in the Philippines to achieve their dream. `
 

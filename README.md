@@ -1,6 +1,4 @@
 <h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=vinzvinci98.id)
-
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">

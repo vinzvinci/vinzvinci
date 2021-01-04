@@ -13,7 +13,7 @@
 <br />
 
 <p align="center">
-Hello, my name is Vincent Villafuerte as known as Vinz Vinci in virtual world, the creator of Surpath Community. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm student: My goal next year is to enhance my knowledge in Javascript, and I want to learn ReactJs, PHP, Laravel, familiarize myself in Python, Ruby, Rails. I want to be a good leader, to join some events, to help my fellow students, to focus on my local tech community.
+Hello, my name is Vincent Villafuerte as known as Vinz Vinci in virtual world, the creator of Surpath Community. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm student: My goal for 2021 is to enhance my knowledge in JavaScript, and I want to learn ReactJS, PHP, Laravel, familiarize myself in Python, Ruby, Rails. I want to be a good leader, to join some events, to help my fellow students, to focus on my local tech community.
 </p>
 
 <br />

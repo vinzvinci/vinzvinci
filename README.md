@@ -47,5 +47,6 @@ Hello, my name is Vincent Villafuerte as known as Vinz Vinci in virtual world, t
 
 <br/>
 
+### Stats:
 <img align="left" alt="vinzvinci98's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci98&count_private=true&theme=radical&show_icons=true" width="65%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci98&count_private=true&theme=tokyonight&line_height=75" width="32%">

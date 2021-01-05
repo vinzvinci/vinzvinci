@@ -4,12 +4,15 @@
 ![](https://komarev.com/ghpvc/?username=vinzvinci98)
 
 <p align="center">
-<a href="https://web.facebook.com/Vintus.Pro1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/vinz_vinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/vincent-villafuerte-5892891b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://vinzvinci98.github.io/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fvinzvinci98.github.io%2F" height=25></a>
+<a href="https://web.facebook.com/Vintus.Pro1/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/vinz_vinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/vinz_vinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/vinz_vinci?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/vincent-villafuerte-5892891b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://vinzvinci98.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </p>
 
+  
 <br />
 
 <p align="center">
@@ -22,6 +25,12 @@ Hello, my name is Vincent Villafuerte as known as Vinz Vinci in virtual world, t
 #### <a href="https://github.com/surpathcommunity">Surpath-Community</a><br>
 
 ` - Surpath is an open source community that helps everyone in the Philippines to achieve their dream. `
+
+<br />
+
+### Operating System:
+<img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 
 <br />
 

@@ -9,7 +9,7 @@
 <a href="https://twitter.com/vinz_vinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/vinz_vinci?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
 <a href="https://www.linkedin.com/in/vincent-villafuerte-5892891b5/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://vinzvinci98.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
   

@@ -22,7 +22,7 @@ Hello, my name is Vincent Villafuerte as known as Vinz Vinci (vinzvinci) in virt
 
 <br/>
 
-### Join to my local tech community in discord and github.
+### Join to my local tech community in discord and GitHub.
 #### <a href="https://github.com/surpathcommunity">Surpath-Community</a><br>
 
 ` Note: Surpath is an open source community that helps everyone in the Philippines to achieve their dream. `

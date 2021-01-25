@@ -17,7 +17,11 @@
 <br/>
 
 <p align="center">
-Hello, my name is Vincent Villafuerte as known as Vinz Vinci (vinzvinci) in virtual world, the creator of Surpath Community. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm still student.<br/> -I'm craving for Open Source-
+Hello, my name is Vincent Villafuerte as known as Vinz Vinci (vinzvinci) in virtual world, the creator of Surpath Community. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm still student. 
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">
 </p>
 
 <br/>

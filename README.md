@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-Hello, my name is Vincent Villafuerte as known as Vinz Vinci (vinzvinci) in virtual world, the creator of Surpath Community. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm still student. 
+Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm still student. 
 </p>
 
 <p align="center">

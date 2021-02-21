@@ -17,7 +17,7 @@
 <br/>
 
 <p align="center">
-Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I'm currently studying Bachelor of Science in Information System. My expertise is in Java programming, also knowledgeable in Front-End Web Development and I love open source community. I want to surpass my limits while I'm still student. I want to have software engineer intern job.
+Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I am business minded person and software development has been my passion. Well technology is very relevant to my everyday life. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
 </p>
 
 <p align="center">

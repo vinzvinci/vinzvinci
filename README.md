@@ -26,12 +26,6 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
 
 <br/>
 
-### I'm active in this organisation
-<a href="https://github.com/surpathcommunity"><img src="https://img.shields.io/badge/-Surpath-black"></a>
-<a href="https://github.com/EddieHubCommunity"><img src="https://img.shields.io/static/v1?label=Guild&message=EddieHub&color=blueviolet&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAChVBMVEUPCwukzr0WFhWBhnYzMzAAAAAPEhUCAgc2LS4lJSQhIB8ODw4oKSgcGhsbHRsXFhUZGRk8My4hISD///+6nIyVcV5DODNsWE0aMFxASVdxW1EhO29JVWkLLnQTIUMAPJ5IPjISEhApMTYbAgBLT1FtZWQKEhFZAgIyDw9tAgKJDAtOBgcAAAAAAAAUFRMhIiEODQ0HBwcBAAEBAAAREBElJiQxMi4xMiwvMSswMiwnJyMeHxsYGRYVFRMbGhkKCAgfHh4eHxwsLSg2ODElJiIpKSc1NDQnJCMgIB4cHRoaGxgpKiktLS8VFBMSEhAgICAFAAAGBgUNDg5dSDyqh3MVFBQqKyoGCAqfgXJ5Z12tineEa1s7NjIAAAAAAAI2LyxhVUxzZVt8aF2cemmwh3KHaFg7MCuDYU+OfXOMf3eOf3VPRk50WlCBY1QrQmsHIlg8QVkmOmcLJlwpPWNGTEMwSHgOLGheaoQ+SGshNWgnQHJYW10AAJ8bNWtoa3STlJOKjZFHS1k6OEIAAB89QEY7OjonJyYmJiYxMTMgIB8FAwA4LS1APz8wMC4ZGBdEQ0M2ODciJiVFAABtCgtiJCRFJyYACAhPKytSMzRIJiYSAABYAAGGBASHBQRpAgFmBwZoCAhkBwc0BAY5PDU6PDY4OjMzNS8wMSsrLSgdHxsjIh0tKSMoJiE3MixiUkdoVUkoJiIZGhcbGBQ8MCmGalusiXelh3e8m4nVrpjLpZGGbmEoIR0AAAALDAvCnoretaHmu6fNqpexmom7o5DPq5eLcmQrJCBRSUOTfnHYsZ2lj4NXU1BLSESPe3CdhnmDdm9waGB9cWtXUlewnI6pmZba0sy+trjmY4pzAAAAo3RSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEJFRMVFw8KBj96m7u5s7Snh0YTGoLe/f7GMB+k+v23MznagAMOiMr74UkOP9b72mYFBWXd+vnckjAHBk29/cw5CQRw4/fSWwQCXuT2yGkIAU7g9uf6dgMPtdlt3JIMErfOH3voWQRbyo8JQ+yQBAIiMxM1s20EU1US4AAAAAFiS0dEEwy7XJYAAAAHdElNRQflARkNJSPYYCPyAAAAAW9yTlQBz6J3mgAAALFJREFUGBkFwTEuRUEABdB75s3LzESptgCR6P4aVCSs4CdUEjrLEIloBJ0KpYI1KOSXEhsQFa3GOYJNwAq6LQC8/dVpgSW4pXQ7LAGuebXrCACX7OMY4MJLfT5gAOca5rU9nHAJj6ZpfG7P8/uirOb56aP+1PyuNw7dNarv1GRqFA3TV1KT0ngwuPlKUpJy31prrbVpI0lNqgZUSUpST3vvvfd+VpKUpIwxxlXvvU9J/gHojhx4tq9qVQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMS0wMS0yNVQxMzozNzozNSswMDowMOV/Fz8AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjEtMDEtMjVUMTM6Mzc6MzUrMDA6MDCUIq+DAAAAAElFTkSuQmCC"></a>
-
-<br/>
-
 ### Operating System:
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
@@ -51,6 +45,27 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
 
 <br/>
 
-### Stats:
-<img align="left" alt="vinzvinci's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vinzvinci&count_private=true&theme=radical&show_icons=true" width="65%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&count_private=true&theme=tokyonight&line_height=75" width="32%">
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <strong> :octocat: I'm part of these organisations :octocat: </strong><br>
+      <table>
+        <tr>
+          <td align="center">
+            <a href="https://github.com/surpathcommunity">
+              <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/EddieHubCommunity">
+              <img src="https://avatars3.githubusercontent.com/u/66388388?s=150&v=4" />
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td align="center">
+      <img width="120%" src="https://github-readme-stats.vercel.app/api?username=vinzvinci&count_private=true&theme=radical&show_icons=true" />
+    </td>
+  </tr>
+</table>

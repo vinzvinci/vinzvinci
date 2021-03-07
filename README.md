@@ -26,7 +26,7 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
 
 <br/>
 
-### Operating System:
+### Using these Operating System:
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 

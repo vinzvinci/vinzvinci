@@ -72,4 +72,13 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width="100%" height="180px">
+<table align="center" width="100%">
+        <tr>
+          <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinzvinci&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28">
+          </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=dark">
+    </td>
+  </tr>
+</table>

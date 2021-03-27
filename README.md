@@ -50,7 +50,7 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <strong> :octocat: I'm part of these organisations :octocat: </strong><br>
+      <strong> :octocat: I'm proud to be part of these organisations :octocat: </strong><br>
       <table>
         <tr>
           <td align="center">

@@ -2,7 +2,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vinzvinci">
+<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">
 </p>
 
 <p align="center">
@@ -18,39 +18,22 @@
 <p align="center">
 Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I am business minded person and software development has been my passion. Well technology is very relevant to my everyday life. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
 </p>
-<hr>
-
-<p align="center">
-<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">
-</p>
+<hr /
 
 <br />
 
-|||| 
-|:---: |:---: |:---:|
-| <a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" height="30px"></a> | <a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder of SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a> | <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a>|
-| <a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://user-images.githubusercontent.com/73097560/115356686-7a3c6980-a1ee-11eb-8ccf-ee3476549578.png" width="320px" height="310px"></a> | <a href="https://github.com/SurPathHub"><img src="https://user-images.githubusercontent.com/73097560/115352470-faac9b80-a1e9-11eb-9e93-79c1db5e4c6e.png" width="250px"> | <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://user-images.githubusercontent.com/73097560/115364811-5ed55c80-a1f6-11eb-80e0-0163bdf837e2.png" width="300px" height="320px"></a> |
-
-<br/>
-
-<h3 align="center"> Using these Operating System:</h3>
-<p align="center"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></p>
-
-<h3 align="center">Languages and Tools:</h3>
-  <p align="center">
-    <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-    <img alt="Visual-basic" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-basic/visual-basic.png" />
-    <img alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-    <img alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  </p>
-  
-<br />
+<table>
+  <tr>
+    <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a> </th>
+    <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder of SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
+    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a> </th>
+  </tr>
+  <tr>
+    <td><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://user-images.githubusercontent.com/73097560/115356686-7a3c6980-a1ee-11eb-8ccf-ee3476549578.png" width="310px" height="280px"></a></td>
+    <td><a href="https://github.com/SurPathHub"><img src="https://user-images.githubusercontent.com/73097560/115352470-faac9b80-a1e9-11eb-9e93-79c1db5e4c6e.png" width="250px">
+    <td align="center"><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://user-images.githubusercontent.com/73097560/115364811-5ed55c80-a1f6-11eb-80e0-0163bdf837e2.png" width="290px" height="340px"></a></td>
+  </tr>
+</table>
 
 <br />
 

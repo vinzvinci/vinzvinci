@@ -16,7 +16,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I am business minded person and software development has been my passion. Well technology is very relevant to my everyday life. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
+Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System. I am passionate about software development, web designing and also having interest in game development and also love putting my project here in GitHub. I also love to contribute to different open-source project and do collaborate with <a href="https://github.com/EddieHubCommunity">EddieHub Community</a>. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
 </p>
 <hr /
 
@@ -45,7 +45,7 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
       <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/surpathcommunity">
+            <a href="https://github.com/SurPathHub">
               <img src="https://avatars3.githubusercontent.com/u/75564428?s=150&v=4" />
             </a>
           </td>

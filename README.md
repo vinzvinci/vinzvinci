@@ -1,4 +1,4 @@
-<h1 align="center">HI THERE WELCOME TO MY GITHUB PROFILE 👋</h1>
+<h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">
@@ -13,19 +13,23 @@
 <a href="https://vinzvinci.github.io/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
-<p align="center">
-<a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>
-</p>
 
-<br/>
-
+<h2 align="center">About me</h2>
 <p align="center">
 Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world. I am business minded person and software development has been my passion. Well technology is very relevant to my everyday life. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
 </p>
+<hr>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">
 </p>
+
+<br />
+
+|||| 
+|:---: |:---: |:---:|
+| <a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder of SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>|
+| <a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://user-images.githubusercontent.com/73097560/115356686-7a3c6980-a1ee-11eb-8ccf-ee3476549578.png" width="300px" height="200px"></a> | <a href="https://github.com/SurPathHub"><img src="https://user-images.githubusercontent.com/73097560/115352470-faac9b80-a1e9-11eb-9e93-79c1db5e4c6e.png" width="250px"> | <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://user-images.githubusercontent.com/73097560/115364811-5ed55c80-a1f6-11eb-80e0-0163bdf837e2.png" width="300px" height="250px"></a> |
 
 <br/>
 

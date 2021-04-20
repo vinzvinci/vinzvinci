@@ -2,7 +2,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">
-<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">
+:octocat:<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">:octocat:
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@ Hello, my name is Vincent Villafuerte also known as Vinz Vinci in virtual world.
 
 <br />
 
+<h2 align="center">Current Role</h2>
 <table>
   <tr>
     <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a> </th>

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open%20Source%20for%20the%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Show%20me%20your%20Octocat%20figurine%20please😻;Thank%20you%20so%20much⭐;You%20are%20great!;&center=true&width=450&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;Show%20me%20your%20Octocat%20figurine%20please😻;Thank%20you%20so%20much⭐;You%20are%20great!;&center=true&width=450&height=45"></a>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
   </tr>
 </table>
 
-<details><summary>⚫Recent Activity</summary>
+<details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#7](https://github.com/vinzvinci/vinzvinci/issues/7) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
@@ -87,9 +87,10 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <!--END_SECTION:activity-->
 </details>
 
-<details><summary>🏆Shout out and thank you to these awesome people</summary>
+<details><summary>Shout out and thank you to these awesome people 🏆✨</summary>
     - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
     - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
     - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
-    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a>
+    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
+    - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
 </details>

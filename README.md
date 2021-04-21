@@ -70,3 +70,8 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
     </td>
   </tr>
 </table>
+
+<details><summary>Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+

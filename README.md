@@ -1,8 +1,13 @@
 <h1 align="center">HI THERE! WELCOME TO MY GITHUB PROFILE 👋</h1>
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">
 :octocat:<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">:octocat:
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Open%20Source%20for%20the%20WIN!;Join%20EddieHub%20Community;Collaboration%201st,%20Code%202nd.;Show%20me%20your%20Octocat%20figurine%20please😻;Thank%20you%20so%20much⭐;You%20are%20great!;&center=true&width=450&height=45"></a>
 </p>
 
 <p align="center">
@@ -71,13 +76,20 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
   </tr>
 </table>
 
-<details><summary>Recent Activity</summary>
+<details><summary>⚫Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/vinzvinci/vinzvinci/issues/7) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
-2. 🗣 Commented on [#7](https://github.com/vinzvinci/vinzvinci/issues/7) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
-3. 🗣 Commented on [#1352](https://github.com/EddieHubCommunity/support/issues/1352) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-4. ❗️ Opened issue [#9](https://github.com/vinzvinci/vinzvinci/issues/9) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
-5. ❗️ Opened issue [#1352](https://github.com/EddieHubCommunity/support/issues/1352) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. 🗣 Commented on [#1352](https://github.com/EddieHubCommunity/support/issues/1352) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. ❗️ Opened issue [#9](https://github.com/vinzvinci/vinzvinci/issues/9) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
+3. ❗️ Opened issue [#1352](https://github.com/EddieHubCommunity/support/issues/1352) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#834](https://github.com/EddieHubCommunity/support/issues/834) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❗️ Opened issue [#19](https://github.com/SurPathHub/support/issues/19) in [SurPathHub/support](https://github.com/SurPathHub/support)
 <!--END_SECTION:activity-->
+</details>
 
+<details><summary>🏆Shout out and thank you to these awesome people</summary>
+    - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
+    - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
+    - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
+    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a>
+</details>

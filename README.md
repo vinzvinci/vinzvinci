@@ -23,7 +23,7 @@
 <p align="center">
 Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System. I am passionate about software development, web designing and also having interest in game development and also love putting my project here in GitHub. I also love to contribute to different open-source project and do collaborate with <a href="https://github.com/EddieHubCommunity">EddieHub Community</a>. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115829808-fe3a5f80-a441-11eb-9d41-a613c2d63619.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115832663-b7e6ff80-a445-11eb-9e51-39de2c1c1966.gif">
 
 <h2 align="center">Current Role</h2>
 <table>

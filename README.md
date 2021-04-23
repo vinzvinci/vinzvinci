@@ -3,7 +3,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">
-:octocat:<img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github">:octocat:
+:octocat:<a href="https://github.com/vinzvinci/code-with-me"><img src="https://img.shields.io/badge/-I'm%20craving%20for%20Open%20Source-green?style=for-the-badge&logo=github"></a>:octocat:
 </p>
 
 <p align="center">

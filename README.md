@@ -19,13 +19,15 @@
 <a href="https://www.youtube.com/channel/UCjA75ni_WO_AoyWsLxnnwjA"><img alt="Surpath YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
-<h2 align="center">About me</h2>
-<p align="center">
-Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System. I am passionate about software development, web designing and also having interest in game development and also love putting my project here in GitHub. I also love to contribute to different open-source project and do collaborate with <a href="https://github.com/EddieHubCommunity">EddieHub Community</a>. I'm very lucky because I found what I love in early age which is coding and this passion carried me through mentoring other students and make a lot of friends in tech industry around the world.
-</p>
-
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<h2 align="center">About me</h2>
+<p align="center">
+Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System in the Philippines. I'm continuously learning Python, Django and SQL while doing what I love which is contributing to different open-source project and actively helping different communities.
+</p>
+
+<hr />
 
 <h2 align="center">Current Roles</h2>
 <table>
@@ -36,7 +38,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
   </tr>
 </table>
 
-<br />
+<hr />
 
 <table align="center" width="100%">
   <tr>

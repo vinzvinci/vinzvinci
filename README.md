@@ -27,17 +27,12 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h2 align="center">Current Role</h2>
+<h2 align="center">Current Roles</h2>
 <table>
   <tr>
     <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a> </th>
     <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder at SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
     <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a> </th>
-  </tr>
-  <tr>
-    <td><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://user-images.githubusercontent.com/73097560/115356686-7a3c6980-a1ee-11eb-8ccf-ee3476549578.png" width="310px" height="280px"></a></td>
-    <td><a href="https://github.com/SurPathHub"><img src="https://user-images.githubusercontent.com/73097560/115352470-faac9b80-a1e9-11eb-9e93-79c1db5e4c6e.png" width="250px">
-    <td align="center"><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://user-images.githubusercontent.com/73097560/115364811-5ed55c80-a1f6-11eb-80e0-0163bdf837e2.png" width="290px" height="340px"></a></td>
   </tr>
 </table>
 

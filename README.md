@@ -94,3 +94,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
     - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
     - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
 </details>
+
+<details><summary>Stargazers ⭐</summary>
+<a href="https://github.com/vinzvinci/vinzvinci/stargazers"><img src="https://reporoster.com/stars/vinzvinci/vinzvinci"></a>
+</details>

@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/EddieHubCommunity/Branding/issues/21) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
-2. 🗣 Commented on [#5](https://github.com/SurPathHub/starter-kit/issues/5) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 🗣 Commented on [#7](https://github.com/SurPathHub/starter-kit/issues/7) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. 🎉 Merged PR [#6](https://github.com/SurPathHub/starter-kit/pull/6) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. ❗️ Opened issue [#5](https://github.com/SurPathHub/starter-kit/issues/5) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#5](https://github.com/SurPathHub/starter-kit/issues/5) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🎉 Merged PR [#7](https://github.com/SurPathHub/starter-kit/pull/7) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. 🗣 Commented on [#21](https://github.com/EddieHubCommunity/Branding/issues/21) in [EddieHubCommunity/Branding](https://github.com/EddieHubCommunity/Branding)
+4. 🗣 Commented on [#5](https://github.com/SurPathHub/starter-kit/issues/5) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+5. 🗣 Commented on [#7](https://github.com/SurPathHub/starter-kit/issues/7) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
 </details>
 

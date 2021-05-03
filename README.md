@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/SurPathHub/starter-kit/pull/13) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-2. ❗️ Opened issue [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
-3. ❗️ Opened issue [#40](https://github.com/SurPathHub/SurPathHub.github.io/issues/40) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. 🎉 Merged PR [#38](https://github.com/SurPathHub/SurPathHub.github.io/pull/38) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. ❗️ Closed issue [#37](https://github.com/SurPathHub/SurPathHub.github.io/issues/37) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. 🗣 Commented on [#14](https://github.com/SurPathHub/starter-kit/issues/14) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🎉 Merged PR [#13](https://github.com/SurPathHub/starter-kit/pull/13) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. ❗️ Opened issue [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+4. ❗️ Opened issue [#40](https://github.com/SurPathHub/SurPathHub.github.io/issues/40) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. 🎉 Merged PR [#38](https://github.com/SurPathHub/SurPathHub.github.io/pull/38) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

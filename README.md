@@ -82,10 +82,10 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
-4. 🗣 Commented on [#10](https://github.com/vinzvinci/vinzvinci/issues/10) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
-5. 🗣 Commented on [#14](https://github.com/SurPathHub/starter-kit/issues/14) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+4. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+5. 🗣 Commented on [#10](https://github.com/vinzvinci/vinzvinci/issues/10) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
 <!--END_SECTION:activity-->
 </details>
 

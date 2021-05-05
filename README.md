@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/SurPathHub/SurPathHub.github.io/issues/40) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🎉 Merged PR [#39](https://github.com/SurPathHub/SurPathHub.github.io/pull/39) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🎉 Merged PR [#41](https://github.com/SurPathHub/SurPathHub.github.io/pull/41) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. 🗣 Commented on [#41](https://github.com/SurPathHub/SurPathHub.github.io/issues/41) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. ❗️ Opened issue [#43](https://github.com/SurPathHub/SurPathHub.github.io/issues/43) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+2. 🗣 Commented on [#215](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/215) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+3. ❗️ Opened issue [#42](https://github.com/SurPathHub/SurPathHub.github.io/issues/42) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. ❗️ Closed issue [#40](https://github.com/SurPathHub/SurPathHub.github.io/issues/40) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. 🎉 Merged PR [#39](https://github.com/SurPathHub/SurPathHub.github.io/pull/39) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

@@ -82,10 +82,10 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. 🗣 Commented on [#2](https://github.com/SurPathHub/github-profile-ph/issues/2) in [SurPathHub/github-profile-ph](https://github.com/SurPathHub/github-profile-ph)
-3. 💪 Opened PR [#477](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/477) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-4. 🗣 Commented on [#215](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/215) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
-5. ❗️ Closed issue [#10](https://github.com/SurPathHub/SurPathHub.github.io/issues/10) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+2. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. 🗣 Commented on [#2](https://github.com/SurPathHub/github-profile-ph/issues/2) in [SurPathHub/github-profile-ph](https://github.com/SurPathHub/github-profile-ph)
+4. 💪 Opened PR [#477](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/477) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
+5. 🗣 Commented on [#215](https://github.com/EddieHubCommunity/awesome-github-profiles/issues/215) in [EddieHubCommunity/awesome-github-profiles](https://github.com/EddieHubCommunity/awesome-github-profiles)
 <!--END_SECTION:activity-->
 </details>
 

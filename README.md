@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. ❌ Closed PR [#1](https://github.com/SurPathHub/showcase-your-project/pull/1) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
-3. ❌ Closed PR [#11](https://github.com/SurPathHub/hacktoberfest-philippines/pull/11) in [SurPathHub/hacktoberfest-philippines](https://github.com/SurPathHub/hacktoberfest-philippines)
-4. ❌ Closed PR [#1](https://github.com/SurPathHub/events-calendar/pull/1) in [SurPathHub/events-calendar](https://github.com/SurPathHub/events-calendar)
-5. 🗣 Commented on [#1](https://github.com/SurPathHub/events-calendar/issues/1) in [SurPathHub/events-calendar](https://github.com/SurPathHub/events-calendar)
+1. 🎉 Merged PR [#7](https://github.com/SurPathHub/github-profile-ph/pull/7) in [SurPathHub/github-profile-ph](https://github.com/SurPathHub/github-profile-ph)
+2. 🗣 Commented on [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. ❌ Closed PR [#1](https://github.com/SurPathHub/showcase-your-project/pull/1) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+4. ❌ Closed PR [#11](https://github.com/SurPathHub/hacktoberfest-philippines/pull/11) in [SurPathHub/hacktoberfest-philippines](https://github.com/SurPathHub/hacktoberfest-philippines)
+5. ❌ Closed PR [#1](https://github.com/SurPathHub/events-calendar/pull/1) in [SurPathHub/events-calendar](https://github.com/SurPathHub/events-calendar)
 <!--END_SECTION:activity-->
 </details>
 

@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#42](https://github.com/SurPathHub/SurPathHub.github.io/issues/42) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🎉 Merged PR [#45](https://github.com/SurPathHub/SurPathHub.github.io/pull/45) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🗣 Commented on [#42](https://github.com/SurPathHub/SurPathHub.github.io/issues/42) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. 🎉 Merged PR [#44](https://github.com/SurPathHub/SurPathHub.github.io/pull/44) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. ❗️ Closed issue [#20](https://github.com/SurPathHub/support/issues/20) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. 💪 Opened PR [#2](https://github.com/kaiwalyakoparkar/Tec_magic/pull/2) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+2. ❗️ Closed issue [#42](https://github.com/SurPathHub/SurPathHub.github.io/issues/42) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. 🎉 Merged PR [#45](https://github.com/SurPathHub/SurPathHub.github.io/pull/45) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🗣 Commented on [#42](https://github.com/SurPathHub/SurPathHub.github.io/issues/42) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. 🎉 Merged PR [#44](https://github.com/SurPathHub/SurPathHub.github.io/pull/44) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

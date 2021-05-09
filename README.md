@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/kaiwalyakoparkar/Tec_magic/pull/44) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-2. 🎉 Merged PR [#25](https://github.com/kaiwalyakoparkar/Tec_magic/pull/25) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-3. 💪 Opened PR [#25](https://github.com/kaiwalyakoparkar/Tec_magic/pull/25) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-4. 🎉 Merged PR [#46](https://github.com/SurPathHub/SurPathHub.github.io/pull/46) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🎉 Merged PR [#2](https://github.com/kaiwalyakoparkar/Tec_magic/pull/2) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 🎉 Merged PR [#48](https://github.com/kaiwalyakoparkar/Tec_magic/pull/48) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+2. 💪 Opened PR [#48](https://github.com/kaiwalyakoparkar/Tec_magic/pull/48) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+3. 💪 Opened PR [#44](https://github.com/kaiwalyakoparkar/Tec_magic/pull/44) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+4. 🎉 Merged PR [#25](https://github.com/kaiwalyakoparkar/Tec_magic/pull/25) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+5. 💪 Opened PR [#25](https://github.com/kaiwalyakoparkar/Tec_magic/pull/25) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
 <!--END_SECTION:activity-->
 </details>
 

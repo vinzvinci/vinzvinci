@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-2. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-3. ❗️ Opened issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-4. 🎉 Merged PR [#48](https://github.com/kaiwalyakoparkar/Tec_magic/pull/48) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
-5. 💪 Opened PR [#48](https://github.com/kaiwalyakoparkar/Tec_magic/pull/48) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
+1. 🗣 Commented on [#10](https://github.com/vinzvinci/vinzvinci.github.io/issues/10) in [vinzvinci/vinzvinci.github.io](https://github.com/vinzvinci/vinzvinci.github.io)
+2. ❗️ Closed issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+3. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+4. ❗️ Opened issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+5. 🎉 Merged PR [#48](https://github.com/kaiwalyakoparkar/Tec_magic/pull/48) in [kaiwalyakoparkar/Tec_magic](https://github.com/kaiwalyakoparkar/Tec_magic)
 <!--END_SECTION:activity-->
 </details>
 

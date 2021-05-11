@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/SurPathHub/SurPathHub.github.io/issues/47) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🗣 Commented on [#10](https://github.com/vinzvinci/vinzvinci.github.io/issues/10) in [vinzvinci/vinzvinci.github.io](https://github.com/vinzvinci/vinzvinci.github.io)
-3. ❗️ Closed issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-4. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
-5. ❗️ Opened issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+1. ❗️ Opened issue [#48](https://github.com/SurPathHub/SurPathHub.github.io/issues/48) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+2. 🗣 Commented on [#47](https://github.com/SurPathHub/SurPathHub.github.io/issues/47) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. 🗣 Commented on [#10](https://github.com/vinzvinci/vinzvinci.github.io/issues/10) in [vinzvinci/vinzvinci.github.io](https://github.com/vinzvinci/vinzvinci.github.io)
+4. ❗️ Closed issue [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
+5. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/spell-bind/issues/56) in [kaiwalyakoparkar/spell-bind](https://github.com/kaiwalyakoparkar/spell-bind)
 <!--END_SECTION:activity-->
 </details>
 

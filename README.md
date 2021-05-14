@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#9](https://github.com/space-lang/space/issues/9) in [space-lang/space](https://github.com/space-lang/space)
-2. ❗️ Opened issue [#7](https://github.com/space-lang/space/issues/7) in [space-lang/space](https://github.com/space-lang/space)
-3. ❗️ Opened issue [#6](https://github.com/space-lang/space/issues/6) in [space-lang/space](https://github.com/space-lang/space)
-4. ❗️ Opened issue [#22](https://github.com/Vyvy-vi/dev-quotes-api/issues/22) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
-5. 🎉 Merged PR [#20](https://github.com/SurPathHub/starter-kit/pull/20) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. ❗️ Opened issue [#8](https://github.com/vivekascoder/libman-vue/issues/8) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+2. ❗️ Opened issue [#7](https://github.com/vivekascoder/libman-vue/issues/7) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+3. ❗️ Opened issue [#7](https://github.com/interaapps/pastefy/issues/7) in [interaapps/pastefy](https://github.com/interaapps/pastefy)
+4. 🗣 Commented on [#20](https://github.com/Agrover112/awesome-semantic-search/issues/20) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+5. ❗️ Opened issue [#20](https://github.com/Agrover112/awesome-semantic-search/issues/20) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
 <!--END_SECTION:activity-->
 </details>
 

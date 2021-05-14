@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/vivekascoder/libman-vue/issues/8) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-2. ❗️ Opened issue [#7](https://github.com/vivekascoder/libman-vue/issues/7) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
-3. ❗️ Opened issue [#7](https://github.com/interaapps/pastefy/issues/7) in [interaapps/pastefy](https://github.com/interaapps/pastefy)
-4. 🗣 Commented on [#20](https://github.com/Agrover112/awesome-semantic-search/issues/20) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-5. ❗️ Opened issue [#20](https://github.com/Agrover112/awesome-semantic-search/issues/20) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+1. ❗️ Opened issue [#8](https://github.com/ishitakeshawani/Give-More/issues/8) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+2. 🗣 Commented on [#31](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/31) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+3. ❗️ Opened issue [#31](https://github.com/Cahllagerfeld/nestjs-astra-module/issues/31) in [Cahllagerfeld/nestjs-astra-module](https://github.com/Cahllagerfeld/nestjs-astra-module)
+4. ❗️ Opened issue [#9](https://github.com/vivekascoder/libman-vue/issues/9) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
+5. ❗️ Opened issue [#8](https://github.com/vivekascoder/libman-vue/issues/8) in [vivekascoder/libman-vue](https://github.com/vivekascoder/libman-vue)
 <!--END_SECTION:activity-->
 </details>
 

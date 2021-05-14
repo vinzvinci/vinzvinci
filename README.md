@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/SurPathHub/starter-kit/issues/18) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-2. ❗️ Opened issue [#17](https://github.com/SurPathHub/starter-kit/issues/17) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 🎉 Merged PR [#49](https://github.com/SurPathHub/SurPathHub.github.io/pull/49) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Closed issue [#47](https://github.com/SurPathHub/SurPathHub.github.io/issues/47) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. ❗️ Opened issue [#48](https://github.com/SurPathHub/SurPathHub.github.io/issues/48) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. ❗️ Opened issue [#9](https://github.com/space-lang/space/issues/9) in [space-lang/space](https://github.com/space-lang/space)
+2. ❗️ Opened issue [#7](https://github.com/space-lang/space/issues/7) in [space-lang/space](https://github.com/space-lang/space)
+3. ❗️ Opened issue [#6](https://github.com/space-lang/space/issues/6) in [space-lang/space](https://github.com/space-lang/space)
+4. ❗️ Opened issue [#22](https://github.com/Vyvy-vi/dev-quotes-api/issues/22) in [Vyvy-vi/dev-quotes-api](https://github.com/Vyvy-vi/dev-quotes-api)
+5. 🎉 Merged PR [#20](https://github.com/SurPathHub/starter-kit/pull/20) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
 </details>
 

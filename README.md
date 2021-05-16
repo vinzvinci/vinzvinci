@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/SurPathHub/showcase-your-project/issues/3) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
-2. 🗣 Commented on [#17](https://github.com/Agrover112/awesome-semantic-search/issues/17) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-3. 🗣 Commented on [#18](https://github.com/Agrover112/awesome-semantic-search/issues/18) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-4. 🗣 Commented on [#18](https://github.com/Agrover112/awesome-semantic-search/issues/18) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-5. 🗣 Commented on [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#1677](https://github.com/EddieHubCommunity/support/issues/1677) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#48](https://github.com/SurPathHub/SurPathHub.github.io/issues/48) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+4. 🗣 Commented on [#1588](https://github.com/EddieHubCommunity/support/issues/1588) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1677](https://github.com/EddieHubCommunity/support/issues/1677) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 

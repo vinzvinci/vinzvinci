@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Agrover112/awesome-semantic-search/issues/17) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-2. 🗣 Commented on [#18](https://github.com/Agrover112/awesome-semantic-search/issues/18) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+1. 🗣 Commented on [#3](https://github.com/SurPathHub/showcase-your-project/issues/3) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+2. 🗣 Commented on [#17](https://github.com/Agrover112/awesome-semantic-search/issues/17) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
 3. 🗣 Commented on [#18](https://github.com/Agrover112/awesome-semantic-search/issues/18) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
-4. 🗣 Commented on [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. ❗️ Opened issue [#8](https://github.com/ishitakeshawani/Give-More/issues/8) in [ishitakeshawani/Give-More](https://github.com/ishitakeshawani/Give-More)
+4. 🗣 Commented on [#18](https://github.com/Agrover112/awesome-semantic-search/issues/18) in [Agrover112/awesome-semantic-search](https://github.com/Agrover112/awesome-semantic-search)
+5. 🗣 Commented on [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
 </details>
 

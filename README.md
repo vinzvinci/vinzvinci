@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. ❗️ Closed issue [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
-3. ❗️ Closed issue [#29](https://github.com/SurPathHub/support/issues/29) in [SurPathHub/support](https://github.com/SurPathHub/support)
-4. 🗣 Commented on [#29](https://github.com/SurPathHub/support/issues/29) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. ❗️ Closed issue [#12](https://github.com/SurPathHub/support/issues/12) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. 🗣 Commented on [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. ❗️ Closed issue [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. 🗣 Commented on [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
+4. ❗️ Closed issue [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
+5. ❗️ Closed issue [#29](https://github.com/SurPathHub/support/issues/29) in [SurPathHub/support](https://github.com/SurPathHub/support)
 <!--END_SECTION:activity-->
 </details>
 

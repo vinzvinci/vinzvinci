@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/SurPathHub/SurPathHub.github.io/issues/50) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🎉 Merged PR [#50](https://github.com/SurPathHub/SurPathHub.github.io/pull/50) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. ❗️ Opened issue [#1](https://github.com/Yuvrajhere/parking-point-frontend/issues/1) in [Yuvrajhere/parking-point-frontend](https://github.com/Yuvrajhere/parking-point-frontend)
-4. 🗣 Commented on [#1677](https://github.com/EddieHubCommunity/support/issues/1677) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-5. 🗣 Commented on [#48](https://github.com/SurPathHub/SurPathHub.github.io/issues/48) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. 🗣 Commented on [#4](https://github.com/SurPathHub/showcase-your-project/issues/4) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+2. 🗣 Commented on [#50](https://github.com/SurPathHub/SurPathHub.github.io/issues/50) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. 🎉 Merged PR [#50](https://github.com/SurPathHub/SurPathHub.github.io/pull/50) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. ❗️ Opened issue [#1](https://github.com/Yuvrajhere/parking-point-frontend/issues/1) in [Yuvrajhere/parking-point-frontend](https://github.com/Yuvrajhere/parking-point-frontend)
+5. 🗣 Commented on [#1677](https://github.com/EddieHubCommunity/support/issues/1677) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 

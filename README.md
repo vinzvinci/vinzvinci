@@ -81,11 +81,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1718](https://github.com/EddieHubCommunity/support/issues/1718) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. ❗️ Closed issue [#19](https://github.com/SurPathHub/starter-kit/issues/19) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. 🗣 Commented on [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. ❗️ Closed issue [#28](https://github.com/SurPathHub/support/issues/28) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. ❗️ Opened issue [#369](https://github.com/Jayshah6699/datascience-mashup/issues/369) in [Jayshah6699/datascience-mashup](https://github.com/Jayshah6699/datascience-mashup)
+2. 🗣 Commented on [#56](https://github.com/kaiwalyakoparkar/sense-hacker/issues/56) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
+3. ❗️ Opened issue [#24](https://github.com/Creatoon/Jar-web-app/issues/24) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+4. ❗️ Opened issue [#21](https://github.com/Creatoon/Jar-web-app/issues/21) in [Creatoon/Jar-web-app](https://github.com/Creatoon/Jar-web-app)
+5. 🗣 Commented on [#49](https://github.com/kaiwalyakoparkar/sense-hacker/issues/49) in [kaiwalyakoparkar/sense-hacker](https://github.com/kaiwalyakoparkar/sense-hacker)
 <!--END_SECTION:activity-->
 </details>
 

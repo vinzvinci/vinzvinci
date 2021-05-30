@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#30](https://github.com/SurPathHub/support/issues/30) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. 🗣 Commented on [#30](https://github.com/SurPathHub/support/issues/30) in [SurPathHub/support](https://github.com/SurPathHub/support)
-3. 🗣 Commented on [#17](https://github.com/SurPathHub/starter-kit/issues/17) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. ❗️ Closed issue [#17](https://github.com/SurPathHub/starter-kit/issues/17) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. 🎉 Merged PR [#21](https://github.com/SurPathHub/starter-kit/pull/21) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#32](https://github.com/SurPathHub/support/issues/32) in [SurPathHub/support](https://github.com/SurPathHub/support)
+2. ❗️ Opened issue [#32](https://github.com/SurPathHub/support/issues/32) in [SurPathHub/support](https://github.com/SurPathHub/support)
+3. ❗️ Opened issue [#31](https://github.com/SurPathHub/support/issues/31) in [SurPathHub/support](https://github.com/SurPathHub/support)
+4. ❗️ Opened issue [#14](https://github.com/SurPathHub/hacktoberfest-philippines/issues/14) in [SurPathHub/hacktoberfest-philippines](https://github.com/SurPathHub/hacktoberfest-philippines)
+5. ❗️ Opened issue [#51](https://github.com/SurPathHub/SurPathHub.github.io/issues/51) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

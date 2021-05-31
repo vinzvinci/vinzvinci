@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1761](https://github.com/EddieHubCommunity/support/issues/1761) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#1760](https://github.com/EddieHubCommunity/support/issues/1760) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-3. 🗣 Commented on [#32](https://github.com/SurPathHub/support/issues/32) in [SurPathHub/support](https://github.com/SurPathHub/support)
-4. ❗️ Opened issue [#32](https://github.com/SurPathHub/support/issues/32) in [SurPathHub/support](https://github.com/SurPathHub/support)
-5. ❗️ Opened issue [#31](https://github.com/SurPathHub/support/issues/31) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. ❌ Closed PR [#9](https://github.com/vinzvinci/test/pull/9) in [vinzvinci/test](https://github.com/vinzvinci/test)
+2. ❗️ Closed issue [#1](https://github.com/vinzvinci/test/issues/1) in [vinzvinci/test](https://github.com/vinzvinci/test)
+3. ❗️ Closed issue [#2](https://github.com/vinzvinci/test/issues/2) in [vinzvinci/test](https://github.com/vinzvinci/test)
+4. ❗️ Closed issue [#3](https://github.com/vinzvinci/test/issues/3) in [vinzvinci/test](https://github.com/vinzvinci/test)
+5. ❗️ Closed issue [#4](https://github.com/vinzvinci/test/issues/4) in [vinzvinci/test](https://github.com/vinzvinci/test)
 <!--END_SECTION:activity-->
 </details>
 

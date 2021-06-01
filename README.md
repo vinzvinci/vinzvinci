@@ -57,7 +57,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <h2 align="center">Current Roles</h2>
 <table>
   <tr>
-    <th><a href="https://twitter.com/eddiejaoude/status/1380622246432153601?s=19"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
+    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
     <th><a href="https://github.com/SurPathHub"><img src="https://img.shields.io/badge/Founder at SurPath Hub ⚫-100000?style=for-the-badge&logo=github&logoColor=white" height="34px"></a></th>
     <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
   </tr>

@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1769](https://github.com/EddieHubCommunity/support/issues/1769) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❌ Closed PR [#9](https://github.com/vinzvinci/test/pull/9) in [vinzvinci/test](https://github.com/vinzvinci/test)
-3. ❗️ Closed issue [#1](https://github.com/vinzvinci/test/issues/1) in [vinzvinci/test](https://github.com/vinzvinci/test)
-4. ❗️ Closed issue [#2](https://github.com/vinzvinci/test/issues/2) in [vinzvinci/test](https://github.com/vinzvinci/test)
-5. ❗️ Closed issue [#3](https://github.com/vinzvinci/test/issues/3) in [vinzvinci/test](https://github.com/vinzvinci/test)
+1. 🗣 Commented on [#1440](https://github.com/EddieHubCommunity/support/issues/1440) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1420](https://github.com/EddieHubCommunity/support/issues/1420) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1716](https://github.com/EddieHubCommunity/support/issues/1716) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. 🗣 Commented on [#1762](https://github.com/EddieHubCommunity/support/issues/1762) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1769](https://github.com/EddieHubCommunity/support/issues/1769) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 

@@ -125,3 +125,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Stargazers ⭐</summary>
 <a href="https://github.com/vinzvinci/vinzvinci/stargazers"><img src="https://reporoster.com/stars/vinzvinci/vinzvinci"></a>
 </details>
+
+<details><summary>Flexing site :octocat:</summary>
+    - <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a>
+</details>

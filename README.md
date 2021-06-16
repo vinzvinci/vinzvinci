@@ -122,17 +122,10 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
     - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
 </details>
 
-<details><summary>Favorite Community Discussions</summary>
+<details><summary>Top 5 Community Discussions 🏆:octocat:</summary>
     - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
     - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
     - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
     - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
-</details>
-
-<details><summary>Flexing site :octocat:</summary>
-    - <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a><br /> 
-    - <a href="http://starter-kit.study/">http://starter-kit.study/</a><br /> 
-    - <a href="https://surpathhub.github.io/">https://surpathhub.github.io/</a><br /> 
-    - <a href="https://www.eddiehub.org/">https://www.eddiehub.org/</a>
 </details>

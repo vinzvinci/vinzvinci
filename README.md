@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1811](https://github.com/EddieHubCommunity/support/issues/1811) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🗣 Commented on [#32](https://github.com/SurPathHub/support/issues/32) in [SurPathHub/support](https://github.com/SurPathHub/support)
-3. 🗣 Commented on [#23](https://github.com/SurPathHub/starter-kit/issues/23) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. ❗️ Closed issue [#23](https://github.com/SurPathHub/starter-kit/issues/23) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. ❗️ Opened issue [#23](https://github.com/SurPathHub/starter-kit/issues/23) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#1856](https://github.com/EddieHubCommunity/support/issues/1856) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🗣 Commented on [#1856](https://github.com/EddieHubCommunity/support/issues/1856) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. 🗣 Commented on [#1856](https://github.com/EddieHubCommunity/support/issues/1856) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+4. ❗️ Opened issue [#1856](https://github.com/EddieHubCommunity/support/issues/1856) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. 🗣 Commented on [#1811](https://github.com/EddieHubCommunity/support/issues/1811) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 

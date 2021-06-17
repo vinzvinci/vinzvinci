@@ -63,7 +63,7 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
   </tr>
   <table>
   <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the Philippines.</td>
+    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities and also encourage me to create my own community to support my peers in the Philippines. <hr>Find your campus expert: <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a></td>
   </tr>
   </table>
 </table>

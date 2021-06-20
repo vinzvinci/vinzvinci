@@ -49,7 +49,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System in the Philippines. I'm following these tech stack: ReactJS, Django & some DevOps while doing what I love which is contributing to the different open-source projects and actively helping different communities. My goal is to put more awesome people on Open Source 🖤
+Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pronouns are he/him/his. I'm 2nd year college and currently pursuing a Bachelor of Science in Information System in the Philippines. I'm following these tech stack: ReactJS, Django & some DevOps while doing what I love which is contributing to the different open-source projects and actively helping different communities. My goal is to put more awesome people on Open Source Community 🖤
 </p>
 
 <hr />

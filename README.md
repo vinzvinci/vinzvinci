@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/SurPathHub/support/issues/38) in [SurPathHub/support](https://github.com/SurPathHub/support)
-2. ❗️ Opened issue [#11](https://github.com/vinzvinci/vinzvinci/issues/11) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
-3. ❗️ Opened issue [#53](https://github.com/SurPathHub/SurPathHub.github.io/issues/53) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Opened issue [#52](https://github.com/SurPathHub/SurPathHub.github.io/issues/52) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🗣 Commented on [#1862](https://github.com/EddieHubCommunity/support/issues/1862) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+1. ❗️ Closed issue [#11](https://github.com/vinzvinci/vinzvinci/issues/11) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
+2. 🗣 Commented on [#11](https://github.com/vinzvinci/vinzvinci/issues/11) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
+3. ❗️ Opened issue [#38](https://github.com/SurPathHub/support/issues/38) in [SurPathHub/support](https://github.com/SurPathHub/support)
+4. ❗️ Opened issue [#11](https://github.com/vinzvinci/vinzvinci/issues/11) in [vinzvinci/vinzvinci](https://github.com/vinzvinci/vinzvinci)
+5. ❗️ Opened issue [#53](https://github.com/SurPathHub/SurPathHub.github.io/issues/53) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte, but you may call me Vinz for short. My pr
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/SurPathHub/SurPathHub.github.io/pull/65) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. ❗️ Closed issue [#51](https://github.com/SurPathHub/SurPathHub.github.io/issues/51) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🗣 Commented on [#51](https://github.com/SurPathHub/SurPathHub.github.io/issues/51) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. 🎉 Merged PR [#64](https://github.com/SurPathHub/SurPathHub.github.io/pull/64) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🗣 Commented on [#19](https://github.com/SurPathHub/events/issues/19) in [SurPathHub/events](https://github.com/SurPathHub/events)
+1. 🗣 Commented on [#21](https://github.com/SurPathHub/events/issues/21) in [SurPathHub/events](https://github.com/SurPathHub/events)
+2. 🎉 Merged PR [#65](https://github.com/SurPathHub/SurPathHub.github.io/pull/65) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. ❗️ Closed issue [#51](https://github.com/SurPathHub/SurPathHub.github.io/issues/51) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🗣 Commented on [#51](https://github.com/SurPathHub/SurPathHub.github.io/issues/51) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. 🎉 Merged PR [#64](https://github.com/SurPathHub/SurPathHub.github.io/pull/64) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

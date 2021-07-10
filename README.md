@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rajivranjanmars/Anime-Map/pull/1) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
-2. 🗣 Commented on [#25](https://github.com/SurPathHub/events/issues/25) in [SurPathHub/events](https://github.com/SurPathHub/events)
-3. 🎉 Merged PR [#68](https://github.com/SurPathHub/SurPathHub.github.io/pull/68) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Closed issue [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🗣 Commented on [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. 💪 Opened PR [#2](https://github.com/rajivranjanmars/Anime-Map/pull/2) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+2. 💪 Opened PR [#1](https://github.com/rajivranjanmars/Anime-Map/pull/1) in [rajivranjanmars/Anime-Map](https://github.com/rajivranjanmars/Anime-Map)
+3. 🗣 Commented on [#25](https://github.com/SurPathHub/events/issues/25) in [SurPathHub/events](https://github.com/SurPathHub/events)
+4. 🎉 Merged PR [#68](https://github.com/SurPathHub/SurPathHub.github.io/pull/68) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. ❗️ Closed issue [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🗣 Commented on [#12](https://github.com/SurPathHub/events/issues/12) in [SurPathHub/events](https://github.com/SurPathHub/events)
-3. ❗️ Opened issue [#25](https://github.com/SurPathHub/events/issues/25) in [SurPathHub/events](https://github.com/SurPathHub/events)
-4. 🎉 Merged PR [#24](https://github.com/SurPathHub/events/pull/24) in [SurPathHub/events](https://github.com/SurPathHub/events)
-5. ❗️ Closed issue [#23](https://github.com/SurPathHub/events/issues/23) in [SurPathHub/events](https://github.com/SurPathHub/events)
+1. 🗣 Commented on [#25](https://github.com/SurPathHub/events/issues/25) in [SurPathHub/events](https://github.com/SurPathHub/events)
+2. 🎉 Merged PR [#68](https://github.com/SurPathHub/SurPathHub.github.io/pull/68) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. ❗️ Closed issue [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🗣 Commented on [#67](https://github.com/SurPathHub/SurPathHub.github.io/issues/67) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. 🗣 Commented on [#12](https://github.com/SurPathHub/events/issues/12) in [SurPathHub/events](https://github.com/SurPathHub/events)
 <!--END_SECTION:activity-->
 </details>
 

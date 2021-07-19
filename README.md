@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#69](https://github.com/SurPathHub/SurPathHub.github.io/issues/69) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. ❗️ Opened issue [#10](https://github.com/vinzvinci/test/issues/10) in [vinzvinci/test](https://github.com/vinzvinci/test)
-3. ❗️ Closed issue [#19](https://github.com/SurPathHub/support/issues/19) in [SurPathHub/support](https://github.com/SurPathHub/support)
-4. 🎉 Merged PR [#70](https://github.com/SurPathHub/SurPathHub.github.io/pull/70) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. ❗️ Opened issue [#51](https://github.com/SurPathHub/support/issues/51) in [SurPathHub/support](https://github.com/SurPathHub/support)
+1. ❗️ Closed issue [#4](https://github.com/SurPathHub/showcase-your-project/issues/4) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+2. 🗣 Commented on [#4](https://github.com/SurPathHub/showcase-your-project/issues/4) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+3. ❗️ Closed issue [#3](https://github.com/SurPathHub/showcase-your-project/issues/3) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+4. 🗣 Commented on [#3](https://github.com/SurPathHub/showcase-your-project/issues/3) in [SurPathHub/showcase-your-project](https://github.com/SurPathHub/showcase-your-project)
+5. ❗️ Closed issue [#69](https://github.com/SurPathHub/SurPathHub.github.io/issues/69) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

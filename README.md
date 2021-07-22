@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/dev-protocol/community/pull/33) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 💪 Opened PR [#183](https://github.com/dev-protocol/app/pull/183) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. ❌ Closed PR [#1](https://github.com/vinzvinci/app/pull/1) in [vinzvinci/app](https://github.com/vinzvinci/app)
-4. ❗️ Closed issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
-5. 🗣 Commented on [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+1. ❌ Closed PR [#1486](https://github.com/dev-protocol/stakes.social/pull/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+2. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+3. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. 💪 Opened PR [#1487](https://github.com/dev-protocol/stakes.social/pull/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+5. ❌ Closed PR [#1](https://github.com/vinzvinci/stakes.social/pull/1) in [vinzvinci/stakes.social](https://github.com/vinzvinci/stakes.social)
 <!--END_SECTION:activity-->
 </details>
 

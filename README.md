@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1486](https://github.com/dev-protocol/stakes.social/pull/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-2. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-4. 💪 Opened PR [#1487](https://github.com/dev-protocol/stakes.social/pull/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-5. ❌ Closed PR [#1](https://github.com/vinzvinci/stakes.social/pull/1) in [vinzvinci/stakes.social](https://github.com/vinzvinci/stakes.social)
+1. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🎉 Merged PR [#26](https://github.com/SurPathHub/starter-kit/pull/26) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. ❌ Closed PR [#1486](https://github.com/dev-protocol/stakes.social/pull/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+5. 🗣 Commented on [#1486](https://github.com/dev-protocol/stakes.social/issues/1486) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
 <!--END_SECTION:activity-->
 </details>
 

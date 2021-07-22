@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164](https://github.com/dev-protocol/app/issues/164) in [dev-protocol/app](https://github.com/dev-protocol/app)
-2. 🎉 Merged PR [#36](https://github.com/SurPathHub/events/pull/36) in [SurPathHub/events](https://github.com/SurPathHub/events)
-3. ❗️ Closed issue [#35](https://github.com/SurPathHub/events/issues/35) in [SurPathHub/events](https://github.com/SurPathHub/events)
-4. 🗣 Commented on [#35](https://github.com/SurPathHub/events/issues/35) in [SurPathHub/events](https://github.com/SurPathHub/events)
-5. 🎉 Merged PR [#72](https://github.com/SurPathHub/SurPathHub.github.io/pull/72) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. ❗️ Closed issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+2. 🗣 Commented on [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+3. ❗️ Opened issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+4. ❗️ Opened issue [#181](https://github.com/dev-protocol/app/issues/181) in [dev-protocol/app](https://github.com/dev-protocol/app)
+5. 🗣 Commented on [#164](https://github.com/dev-protocol/app/issues/164) in [dev-protocol/app](https://github.com/dev-protocol/app)
 <!--END_SECTION:activity-->
 </details>
 

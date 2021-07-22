@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
-2. 🗣 Commented on [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. ❗️ Opened issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
-4. ❗️ Opened issue [#181](https://github.com/dev-protocol/app/issues/181) in [dev-protocol/app](https://github.com/dev-protocol/app)
-5. 🗣 Commented on [#164](https://github.com/dev-protocol/app/issues/164) in [dev-protocol/app](https://github.com/dev-protocol/app)
+1. 💪 Opened PR [#183](https://github.com/dev-protocol/app/pull/183) in [dev-protocol/app](https://github.com/dev-protocol/app)
+2. ❌ Closed PR [#1](https://github.com/vinzvinci/app/pull/1) in [vinzvinci/app](https://github.com/vinzvinci/app)
+3. ❗️ Closed issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+4. 🗣 Commented on [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
+5. ❗️ Opened issue [#182](https://github.com/dev-protocol/app/issues/182) in [dev-protocol/app](https://github.com/dev-protocol/app)
 <!--END_SECTION:activity-->
 </details>
 

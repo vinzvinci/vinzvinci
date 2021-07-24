@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
-2. ❗️ Opened issue [#184](https://github.com/dev-protocol/app/issues/184) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. 🗣 Commented on [#1487](https://github.com/dev-protocol/stakes.social/issues/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-4. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. 🎉 Merged PR [#26](https://github.com/SurPathHub/starter-kit/pull/26) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. 🗣 Commented on [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
+2. ❗️ Opened issue [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
+3. ❗️ Opened issue [#184](https://github.com/dev-protocol/app/issues/184) in [dev-protocol/app](https://github.com/dev-protocol/app)
+4. 🗣 Commented on [#1487](https://github.com/dev-protocol/stakes.social/issues/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+5. 🗣 Commented on [#4](https://github.com/SurPathHub/starter-kit/issues/4) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
 </details>
 

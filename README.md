@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/SurPathHub/SurPathHub.github.io/issues/73) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. 🗣 Commented on [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. ❗️ Opened issue [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
-4. ❗️ Opened issue [#184](https://github.com/dev-protocol/app/issues/184) in [dev-protocol/app](https://github.com/dev-protocol/app)
-5. 🗣 Commented on [#1487](https://github.com/dev-protocol/stakes.social/issues/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+1. ❗️ Closed issue [#34](https://github.com/SurPathHub/events/issues/34) in [SurPathHub/events](https://github.com/SurPathHub/events)
+2. 🗣 Commented on [#34](https://github.com/SurPathHub/events/issues/34) in [SurPathHub/events](https://github.com/SurPathHub/events)
+3. 🗣 Commented on [#73](https://github.com/SurPathHub/SurPathHub.github.io/issues/73) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🗣 Commented on [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
+5. ❗️ Opened issue [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
 <!--END_SECTION:activity-->
 </details>
 

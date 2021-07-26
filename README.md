@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/53) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. 🗣 Commented on [#1487](https://github.com/dev-protocol/stakes.social/issues/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. 🗣 Commented on [#33](https://github.com/dev-protocol/community/issues/33) in [dev-protocol/community](https://github.com/dev-protocol/community)
-4. ❗️ Closed issue [#34](https://github.com/SurPathHub/events/issues/34) in [SurPathHub/events](https://github.com/SurPathHub/events)
-5. 🗣 Commented on [#34](https://github.com/SurPathHub/events/issues/34) in [SurPathHub/events](https://github.com/SurPathHub/events)
+1. ❗️ Opened issue [#55](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/55) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. ❗️ Opened issue [#54](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/54) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. 💪 Opened PR [#53](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/53) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+4. 🗣 Commented on [#1487](https://github.com/dev-protocol/stakes.social/issues/1487) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+5. 🗣 Commented on [#33](https://github.com/dev-protocol/community/issues/33) in [dev-protocol/community](https://github.com/dev-protocol/community)
 <!--END_SECTION:activity-->
 </details>
 

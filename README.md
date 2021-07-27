@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#61](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/61) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. ❗️ Opened issue [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-3. ❗️ Opened issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. ❗️ Opened issue [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. ❗️ Opened issue [#57](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/57) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+1. 🗣 Commented on [#61](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/61) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. ❗️ Opened issue [#61](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/61) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. ❗️ Opened issue [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+4. ❗️ Opened issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. ❗️ Opened issue [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

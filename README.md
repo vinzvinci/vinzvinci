@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. ❗️ Closed issue [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-3. ❗️ Closed issue [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 🗣 Commented on [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. 🎉 Merged PR [#33](https://github.com/dev-protocol/community/pull/33) in [dev-protocol/community](https://github.com/dev-protocol/community)
+1. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. 🗣 Commented on [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. ❗️ Closed issue [#60](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/60) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+4. ❗️ Closed issue [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. 🗣 Commented on [#58](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/58) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

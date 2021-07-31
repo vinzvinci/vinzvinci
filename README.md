@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as vinzvinci. My pronouns are h
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#48](https://github.com/dev-protocol/onboarding-sponsor/pull/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
-2. 🗣 Commented on [#48](https://github.com/dev-protocol/onboarding-sponsor/issues/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
+1. 🗣 Commented on [#48](https://github.com/dev-protocol/onboarding-sponsor/issues/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
+2. ❌ Closed PR [#48](https://github.com/dev-protocol/onboarding-sponsor/pull/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
 3. 🗣 Commented on [#48](https://github.com/dev-protocol/onboarding-sponsor/issues/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
-4. ❗️ Opened issue [#51](https://github.com/dev-protocol/onboarding-sponsor/issues/51) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
-5. ❗️ Closed issue [#185](https://github.com/dev-protocol/app/issues/185) in [dev-protocol/app](https://github.com/dev-protocol/app)
+4. 🗣 Commented on [#48](https://github.com/dev-protocol/onboarding-sponsor/issues/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
+5. ❗️ Opened issue [#51](https://github.com/dev-protocol/onboarding-sponsor/issues/51) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
 <!--END_SECTION:activity-->
 </details>
 

@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-2. ❗️ Closed issue [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-3. 🗣 Commented on [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. 🎉 Merged PR [#28](https://github.com/SurPathHub/starter-kit/pull/28) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-5. ❗️ Closed issue [#27](https://github.com/SurPathHub/starter-kit/issues/27) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+1. ❗️ Opened issue [#66](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/66) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. ❗️ Opened issue [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. 🗣 Commented on [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+4. ❗️ Closed issue [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+5. 🗣 Commented on [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
 <!--END_SECTION:activity-->
 </details>
 

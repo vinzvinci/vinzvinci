@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as **vinzvinci**. My pronouns a
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/SurPathHub/events/pull/37) in [SurPathHub/events](https://github.com/SurPathHub/events)
-2. 🎉 Merged PR [#78](https://github.com/SurPathHub/SurPathHub.github.io/pull/78) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🗣 Commented on [#77](https://github.com/SurPathHub/SurPathHub.github.io/issues/77) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. 🗣 Commented on [#48](https://github.com/dev-protocol/onboarding-sponsor/issues/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
-5. ❌ Closed PR [#48](https://github.com/dev-protocol/onboarding-sponsor/pull/48) in [dev-protocol/onboarding-sponsor](https://github.com/dev-protocol/onboarding-sponsor)
+1. ❗️ Closed issue [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+2. 🗣 Commented on [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+3. ❗️ Opened issue [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+4. 🎉 Merged PR [#37](https://github.com/SurPathHub/events/pull/37) in [SurPathHub/events](https://github.com/SurPathHub/events)
+5. 🎉 Merged PR [#78](https://github.com/SurPathHub/SurPathHub.github.io/pull/78) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

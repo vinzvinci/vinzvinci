@@ -106,11 +106,11 @@ Hello, my name is Vincent Villafuerte also known as **vinzvinci**. My pronouns a
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-2. 🗣 Commented on [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-3. ❗️ Opened issue [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-4. 🎉 Merged PR [#37](https://github.com/SurPathHub/events/pull/37) in [SurPathHub/events](https://github.com/SurPathHub/events)
-5. 🎉 Merged PR [#78](https://github.com/SurPathHub/SurPathHub.github.io/pull/78) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+1. ❗️ Closed issue [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. 🗣 Commented on [#29](https://github.com/SurPathHub/starter-kit/issues/29) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+3. 🎉 Merged PR [#28](https://github.com/SurPathHub/starter-kit/pull/28) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+4. ❗️ Closed issue [#27](https://github.com/SurPathHub/starter-kit/issues/27) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+5. ❗️ Closed issue [#1](https://github.com/SurPathHub/100DaysOfCode/issues/1) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
 <!--END_SECTION:activity-->
 </details>
 

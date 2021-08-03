@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/SurPathHub/100DaysOfCode/issues/11) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-2. 🗣 Commented on [#11](https://github.com/SurPathHub/100DaysOfCode/issues/11) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
-3. 🎉 Merged PR [#67](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/67) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 🗣 Commented on [#67](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/67) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. ❗️ Opened issue [#66](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/66) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+1. 💪 Opened PR [#77](https://github.com/dev-protocol/initto/pull/77) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
+2. ❗️ Closed issue [#11](https://github.com/SurPathHub/100DaysOfCode/issues/11) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+3. 🗣 Commented on [#11](https://github.com/SurPathHub/100DaysOfCode/issues/11) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+4. 🎉 Merged PR [#67](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/67) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. 🗣 Commented on [#67](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/67) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-2. 🗣 Commented on [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-3. ❗️ Opened issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-4. 💪 Opened PR [#77](https://github.com/dev-protocol/initto/pull/77) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-5. ❗️ Closed issue [#11](https://github.com/SurPathHub/100DaysOfCode/issues/11) in [SurPathHub/100DaysOfCode](https://github.com/SurPathHub/100DaysOfCode)
+1. 🎉 Merged PR [#83](https://github.com/SurPathHub/SurPathHub.github.io/pull/83) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+2. ❗️ Closed issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+3. 🗣 Commented on [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+4. ❗️ Opened issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+5. 💪 Opened PR [#77](https://github.com/dev-protocol/initto/pull/77) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
 <!--END_SECTION:activity-->
 </details>
 

@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. 🗣 Commented on [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-3. 🎉 Merged PR [#83](https://github.com/SurPathHub/SurPathHub.github.io/pull/83) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Closed issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-5. 🗣 Commented on [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+1. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. ❗️ Closed issue [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. 🗣 Commented on [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+4. 🎉 Merged PR [#83](https://github.com/SurPathHub/SurPathHub.github.io/pull/83) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. ❗️ Closed issue [#3](https://github.com/SidHacksCommunity/support/issues/3) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
 <!--END_SECTION:activity-->
 </details>
 

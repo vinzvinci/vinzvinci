@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/dev-protocol/initto/pull/84) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-2. 💪 Opened PR [#83](https://github.com/dev-protocol/initto/pull/83) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-3. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. ❗️ Closed issue [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. 🗣 Commented on [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+1. 💪 Opened PR [#85](https://github.com/dev-protocol/initto/pull/85) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
+2. 💪 Opened PR [#84](https://github.com/dev-protocol/initto/pull/84) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
+3. 💪 Opened PR [#83](https://github.com/dev-protocol/initto/pull/83) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
+4. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. ❗️ Closed issue [#65](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/65) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

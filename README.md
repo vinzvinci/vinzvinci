@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2117](https://github.com/EddieHubCommunity/support/issues/2117) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. ❗️ Closed issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-3. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 💪 Opened PR [#85](https://github.com/dev-protocol/initto/pull/85) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-5. 💪 Opened PR [#84](https://github.com/dev-protocol/initto/pull/84) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
+1. ❗️ Opened issue [#1](https://github.com/SurPathHub/student-programs/issues/1) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+2. 🗣 Commented on [#2117](https://github.com/EddieHubCommunity/support/issues/2117) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+3. ❗️ Closed issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+4. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. 💪 Opened PR [#85](https://github.com/dev-protocol/initto/pull/85) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
 <!--END_SECTION:activity-->
 </details>
 

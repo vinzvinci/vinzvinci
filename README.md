@@ -107,10 +107,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#403](https://github.com/dev-protocol/khaos/issues/403) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
-2. ❗️ Opened issue [#1547](https://github.com/dev-protocol/stakes.social/issues/1547) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. ❗️ Opened issue [#70](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/70) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 🗣 Commented on [#84](https://github.com/SurPathHub/SurPathHub.github.io/issues/84) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. ❗️ Closed issue [#1](https://github.com/SurPathHub/student-programs/issues/1) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+2. 🗣 Commented on [#403](https://github.com/dev-protocol/khaos/issues/403) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+3. ❗️ Opened issue [#1547](https://github.com/dev-protocol/stakes.social/issues/1547) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. ❗️ Opened issue [#70](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/70) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. 🗣 Commented on [#84](https://github.com/SurPathHub/SurPathHub.github.io/issues/84) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

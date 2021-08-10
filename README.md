@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/70) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. 🗣 Commented on [#84](https://github.com/SurPathHub/SurPathHub.github.io/issues/84) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. ❗️ Closed issue [#1](https://github.com/SurPathHub/student-programs/issues/1) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
-4. 🗣 Commented on [#2](https://github.com/SurPathHub/student-programs/issues/2) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
-5. 🎉 Merged PR [#2](https://github.com/SurPathHub/student-programs/pull/2) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+1. ❗️ Opened issue [#1547](https://github.com/dev-protocol/stakes.social/issues/1547) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+2. ❗️ Opened issue [#70](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/70) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. 🗣 Commented on [#84](https://github.com/SurPathHub/SurPathHub.github.io/issues/84) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. ❗️ Closed issue [#1](https://github.com/SurPathHub/student-programs/issues/1) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+5. 🗣 Commented on [#2](https://github.com/SurPathHub/student-programs/issues/2) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
 <!--END_SECTION:activity-->
 </details>
 

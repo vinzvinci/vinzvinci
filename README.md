@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/dev-protocol/khaos/issues/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
-2. 💪 Opened PR [#414](https://github.com/dev-protocol/khaos/pull/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
-3. 💪 Opened PR [#73](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/73) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. ❗️ Closed issue [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
-5. 🗣 Commented on [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+1. ❌ Closed PR [#414](https://github.com/dev-protocol/khaos/pull/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+2. 💪 Opened PR [#415](https://github.com/dev-protocol/khaos/pull/415) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+3. 🗣 Commented on [#414](https://github.com/dev-protocol/khaos/issues/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+4. 💪 Opened PR [#414](https://github.com/dev-protocol/khaos/pull/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+5. 💪 Opened PR [#73](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/73) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

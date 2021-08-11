@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. 🎉 Merged PR [#1552](https://github.com/dev-protocol/stakes.social/pull/1552) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. ❗️ Reopened issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 🗣 Commented on [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. 🗣 Commented on [#1551](https://github.com/dev-protocol/stakes.social/issues/1551) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+1. ❗️ Closed issue [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+2. 🗣 Commented on [#398](https://github.com/EddieHubCommunity/EddieBot/issues/398) in [EddieHubCommunity/EddieBot](https://github.com/EddieHubCommunity/EddieBot)
+3. ❗️ Opened issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. 🎉 Merged PR [#71](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/71) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. ❗️ Closed issue [#59](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/59) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

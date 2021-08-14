@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#74](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/74) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-2. ❗️ Closed issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-4. 🗣 Commented on [#57](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/57) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+1. ❗️ Opened issue [#3](https://github.com/SurPathHub/student-programs/issues/3) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+2. 💪 Opened PR [#74](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/74) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+3. ❗️ Closed issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+5. 🗣 Commented on [#57](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/57) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

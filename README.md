@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-2. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-3. 🗣 Commented on [#57](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/57) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-4. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
-5. ❌ Closed PR [#414](https://github.com/dev-protocol/khaos/pull/414) in [dev-protocol/khaos](https://github.com/dev-protocol/khaos)
+1. 💪 Opened PR [#74](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/74) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+2. ❗️ Closed issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+3. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+4. 🗣 Commented on [#57](https://github.com/dev-protocol/docs.devprotocol.xyz/issues/57) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
+5. 🗣 Commented on [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
 <!--END_SECTION:activity-->
 </details>
 

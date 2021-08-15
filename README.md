@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#190](https://github.com/dev-protocol/app/pull/190) in [dev-protocol/app](https://github.com/dev-protocol/app)
-2. ❗️ Opened issue [#189](https://github.com/dev-protocol/app/issues/189) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. ❗️ Opened issue [#3](https://github.com/SurPathHub/student-programs/issues/3) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
-4. 💪 Opened PR [#74](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/74) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
-5. ❗️ Closed issue [#1553](https://github.com/dev-protocol/stakes.social/issues/1553) in [dev-protocol/stakes.social](https://github.com/dev-protocol/stakes.social)
+1. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
+2. 💪 Opened PR [#190](https://github.com/dev-protocol/app/pull/190) in [dev-protocol/app](https://github.com/dev-protocol/app)
+3. ❗️ Opened issue [#189](https://github.com/dev-protocol/app/issues/189) in [dev-protocol/app](https://github.com/dev-protocol/app)
+4. ❗️ Opened issue [#3](https://github.com/SurPathHub/student-programs/issues/3) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+5. 💪 Opened PR [#74](https://github.com/dev-protocol/docs.devprotocol.xyz/pull/74) in [dev-protocol/docs.devprotocol.xyz](https://github.com/dev-protocol/docs.devprotocol.xyz)
 <!--END_SECTION:activity-->
 </details>
 

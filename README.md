@@ -49,7 +49,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm an incoming 3rd-year college of Bachelor of Science in Information System in the Philippines. I'm following my goal to become a successful DevRel, as of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as Developer Relations, and currently managing my local tech community.🖤
+    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm an incoming 3rd-year college of Bachelor of Science in Information System in the Philippines. I'm following my goal to become a successful DevRel, as of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as Developer Relations, and currently managing my local tech community.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />

@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#40](https://github.com/dev-protocol/community/pull/40) in [dev-protocol/community](https://github.com/dev-protocol/community)
-2. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
-3. 💪 Opened PR [#190](https://github.com/dev-protocol/app/pull/190) in [dev-protocol/app](https://github.com/dev-protocol/app)
-4. ❗️ Opened issue [#189](https://github.com/dev-protocol/app/issues/189) in [dev-protocol/app](https://github.com/dev-protocol/app)
-5. ❗️ Opened issue [#3](https://github.com/SurPathHub/student-programs/issues/3) in [SurPathHub/student-programs](https://github.com/SurPathHub/student-programs)
+1. ❗️ Opened issue [#3](https://github.com/CryptoVizor/CryptoVizorApp/issues/3) in [CryptoVizor/CryptoVizorApp](https://github.com/CryptoVizor/CryptoVizorApp)
+2. ❗️ Opened issue [#2](https://github.com/CryptoVizor/CryptoVizorApp/issues/2) in [CryptoVizor/CryptoVizorApp](https://github.com/CryptoVizor/CryptoVizorApp)
+3. 💪 Opened PR [#40](https://github.com/dev-protocol/community/pull/40) in [dev-protocol/community](https://github.com/dev-protocol/community)
+4. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
+5. 💪 Opened PR [#190](https://github.com/dev-protocol/app/pull/190) in [dev-protocol/app](https://github.com/dev-protocol/app)
 <!--END_SECTION:activity-->
 </details>
 

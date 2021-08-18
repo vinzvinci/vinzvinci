@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#85](https://github.com/SurPathHub/SurPathHub.github.io/issues/85) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. ❗️ Closed issue [#58](https://github.com/SurPathHub/SurPathHub.github.io/issues/58) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
-4. ❗️ Opened issue [#3](https://github.com/CryptoVizor/CryptoVizorApp/issues/3) in [CryptoVizor/CryptoVizorApp](https://github.com/CryptoVizor/CryptoVizorApp)
-5. ❗️ Opened issue [#2](https://github.com/CryptoVizor/CryptoVizorApp/issues/2) in [CryptoVizor/CryptoVizorApp](https://github.com/CryptoVizor/CryptoVizorApp)
+1. ❗️ Opened issue [#38](https://github.com/SurPathHub/events/issues/38) in [SurPathHub/events](https://github.com/SurPathHub/events)
+2. ❗️ Opened issue [#85](https://github.com/SurPathHub/SurPathHub.github.io/issues/85) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+3. ❗️ Closed issue [#58](https://github.com/SurPathHub/SurPathHub.github.io/issues/58) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
+5. ❗️ Opened issue [#3](https://github.com/CryptoVizor/CryptoVizorApp/issues/3) in [CryptoVizor/CryptoVizorApp](https://github.com/CryptoVizor/CryptoVizorApp)
 <!--END_SECTION:activity-->
 </details>
 

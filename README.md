@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#86](https://github.com/SurPathHub/SurPathHub.github.io/issues/86) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-2. ❗️ Opened issue [#38](https://github.com/SurPathHub/events/issues/38) in [SurPathHub/events](https://github.com/SurPathHub/events)
-3. ❗️ Opened issue [#85](https://github.com/SurPathHub/SurPathHub.github.io/issues/85) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Closed issue [#58](https://github.com/SurPathHub/SurPathHub.github.io/issues/58) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🗣 Commented on [#187](https://github.com/dev-protocol/app/issues/187) in [dev-protocol/app](https://github.com/dev-protocol/app)
+1. ❗️ Opened issue [#103](https://github.com/DenverCoder1/custom-icon-badges/issues/103) in [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges)
+2. 💪 Opened PR [#41](https://github.com/dev-protocol/community/pull/41) in [dev-protocol/community](https://github.com/dev-protocol/community)
+3. ❗️ Opened issue [#86](https://github.com/SurPathHub/SurPathHub.github.io/issues/86) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. ❗️ Opened issue [#38](https://github.com/SurPathHub/events/issues/38) in [SurPathHub/events](https://github.com/SurPathHub/events)
+5. ❗️ Opened issue [#85](https://github.com/SurPathHub/SurPathHub.github.io/issues/85) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

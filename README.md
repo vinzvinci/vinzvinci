@@ -106,11 +106,11 @@
 <details><summary>Recent Activity :octocat:</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#192](https://github.com/dev-protocol/app/issues/192) in [dev-protocol/app](https://github.com/dev-protocol/app)
-2. 🗣 Commented on [#52](https://github.com/SurPathHub/SurPathHub.github.io/issues/52) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-3. 🎉 Merged PR [#93](https://github.com/SurPathHub/SurPathHub.github.io/pull/93) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-4. ❗️ Closed issue [#91](https://github.com/SurPathHub/SurPathHub.github.io/issues/91) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-5. 🎉 Merged PR [#42](https://github.com/dev-protocol/community/pull/42) in [dev-protocol/community](https://github.com/dev-protocol/community)
+1. 🗣 Commented on [#31](https://github.com/SurPathHub/starter-kit/issues/31) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
+2. ❗️ Opened issue [#192](https://github.com/dev-protocol/app/issues/192) in [dev-protocol/app](https://github.com/dev-protocol/app)
+3. 🗣 Commented on [#52](https://github.com/SurPathHub/SurPathHub.github.io/issues/52) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+4. 🎉 Merged PR [#93](https://github.com/SurPathHub/SurPathHub.github.io/pull/93) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
+5. ❗️ Closed issue [#91](https://github.com/SurPathHub/SurPathHub.github.io/issues/91) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
 <!--END_SECTION:activity-->
 </details>
 

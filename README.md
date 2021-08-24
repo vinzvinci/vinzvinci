@@ -103,18 +103,7 @@
   </tr>
 </table>
 
-<details><summary>Recent Activity :octocat:</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/dev-protocol/initto/issues/87) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-2. 💪 Opened PR [#87](https://github.com/dev-protocol/initto/pull/87) in [dev-protocol/initto](https://github.com/dev-protocol/initto)
-3. 🗣 Commented on [#31](https://github.com/SurPathHub/starter-kit/issues/31) in [SurPathHub/starter-kit](https://github.com/SurPathHub/starter-kit)
-4. ❗️ Opened issue [#192](https://github.com/dev-protocol/app/issues/192) in [dev-protocol/app](https://github.com/dev-protocol/app)
-5. 🗣 Commented on [#52](https://github.com/SurPathHub/SurPathHub.github.io/issues/52) in [SurPathHub/SurPathHub.github.io](https://github.com/SurPathHub/SurPathHub.github.io)
-<!--END_SECTION:activity-->
-</details>
-
-<details><summary>Shout out and thank you to these awesome people 🏆✨</summary>
+<details><summary>Shout out and thank you to these awesome people 🏆</summary>
     - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
     - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
     - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
@@ -122,11 +111,15 @@
     - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
 </details>
 
-<details><summary>Top 6 Community Discussions 🏆:octocat:</summary>
+<details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
     - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
     - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
     - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
-    - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/1928">EddieHub Fest</a><br />
-    - 6. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
+    - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
+</details>
+
+<details><summary>Dev Protocol ✨</summary>
+    - <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl" height="22px"></a/>
+    - <a href="http://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social" height="22px"></a>
 </details>

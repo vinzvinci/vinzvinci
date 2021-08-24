@@ -119,7 +119,7 @@
     - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
 </details>
 
-<details><summary>Dev Protocol ✨</summary>
-    - <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl" height="22px"></a/>
-    - <a href="http://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social" height="22px"></a>
+<details><summary>Dev Protocol ✨</summary><br>
+    <a href="https://devprotocol.xyz/"><img src="https://custom-icon-badges.herokuapp.com/badge/Dev_Protocol-black.svg?logo=devprtcl" height="22px"></a/><br>
+    <a href="http://stakes.social/"><img src="https://custom-icon-badges.herokuapp.com/badge/Stakes.Social-black.svg?logo=stakes.social" height="22px"></a>
 </details>

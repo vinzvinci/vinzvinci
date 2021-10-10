@@ -58,7 +58,7 @@
 <table>
   <tr>
     <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Campus Expert 🚩-FF0000?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
-    <th><a href="https://bio.link/devprotocol"><img src="https://custom-icon-badges.herokuapp.com/badge/DevRel Intern-black.svg?logo=devprtcl" height="34px"></a></th>
+    <th><a href="https://bio.link/devprotocol"><img src="https://custom-icon-badges.herokuapp.com/badge/Developer Relations-black.svg?logo=devprtcl" height="34px"></a></th>
     <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
   </tr>
   <table>

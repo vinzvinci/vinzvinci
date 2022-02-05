@@ -49,7 +49,7 @@
 
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm a 3rd-year college student, doing Bachelor of Science in Information System in the Philippines. As of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as a Developer Relations, and currently managing my local tech community @SurPathHub and my global community @web3community.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm a 3rd-year college student, doing Bachelor of Science in Information System in the Philippines. As of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as a Program Manager, and currently managing my local tech community <a href="https://github.com/SurPathHub">SurPath Hub</a> and my global community <a href="https://github.com/WebXDAO">WebX DAO</a>.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />

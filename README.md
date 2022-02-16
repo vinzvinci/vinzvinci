@@ -122,5 +122,5 @@
 <details><summary>Moving my Blog ✨</summary><br>
     - <a href="https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df">Helping you to build your Personal Brand in Tech</a><br>
     - <a href="https://dev.to/devprotocol/helping-your-favorite-open-source-project-with-stakes-social-dc8">Helping your favorite Open Source Project with Stakes.social</a><br>
-    - <a href="https://dev.to/web3community/introducing-web-3-community-3co5">Introducing Web3 Community</a>
+    - <a href="https://dev.to/webxdao/introducing-web-3-community-3co5">Introducing Web3 Community</a>
 </details>

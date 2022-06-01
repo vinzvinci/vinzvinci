@@ -123,3 +123,7 @@
     - <a href="https://dev.to/devprotocol/helping-your-favorite-open-source-project-with-stakes-social-dc8">Helping your favorite Open Source Project with Stakes.social</a><br>
     - <a href="https://dev.to/webxdao/introducing-web-3-community-3co5">Introducing Web3 Community</a>
 </details>
+
+<details><summary>Currently Planning Event✨</summary><br>
+    <a href="https://githubfieldday.com/">GitHub Field Day Philippines</a>
+</details> 

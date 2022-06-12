@@ -127,5 +127,3 @@
 <details><summary>Currently Planning Event✨</summary><br>
     <a href="https://githubfieldday.com/">GitHub Field Day Philippines</a>
 </details> 
-
-YOLO MAN

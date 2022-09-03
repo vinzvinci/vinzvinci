@@ -41,13 +41,13 @@
 <a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
-
+<p align="center">Nominate me as <a href="https://stars.github.com/nominate/">GitHub Star⭐</a> by typing my username: <strong>vinzvinci</strong></p>
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <h2 align="center">About me</h2>
 <p align="center">
-    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm a 3rd-year college student, doing Bachelor of Science in Information System in the Philippines. As of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as a Program Manager, and currently managing my local tech community <a href="https://github.com/SurPathHub">SurPath Hub</a> and my global community <a href="https://github.com/WebXDAO">WebX DAO</a>.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm a 4th-year college student, doing Bachelor of Science in Information System in the Philippines. As of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as a Program Manager, and currently managing my local tech community <a href="https://github.com/SurPathHub">SurPath Hub</a> and my global community <a href="https://github.com/WebXDAO">WebX DAO</a>.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />

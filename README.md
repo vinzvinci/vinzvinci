@@ -124,5 +124,5 @@
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
-    <a href="https://githubfieldday.com/ph2022">GitHub Field Day Philippines</a>
+    <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> at my Campus 
 </details> 

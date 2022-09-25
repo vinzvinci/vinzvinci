@@ -45,9 +45,9 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-<h2 align="center">About me</h2>
+<h2 align="center">Hey there :wave:</h2>
 <p align="center">
-    Hello, my name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. My pronouns are he/him/his. I'm a 4th-year college student, doing Bachelor of Science in Information System in the Philippines. As of now I'm maintaining an open-source project using a front-end stack, and working on Dev Protocol as a Program Manager, and currently managing my local tech community <a href="https://github.com/SurPathHub">SurPath Hub</a> and my global community <a href="https://github.com/WebXDAO">WebX DAO</a>.🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    My name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate with some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />
@@ -65,6 +65,13 @@
   </tr>
   </table>
 </table>
+
+<h2>Community Hangouts</h2>
+
+<p>We are inclusive! Come and join us!</p> 
+
+[![Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao) 
+[![Community](https://discord.com/api/guilds/790101969413865472/widget.png?style=banner2)]( https://discord.com/invite/RATJsSGM9d)
 
 <hr />
 

@@ -68,10 +68,9 @@
 
 <h2>Community Hangouts</h2>
 
-<p>We are inclusive! Come and join us!</p> 
+<p>Build with us, the future of web.</p> 
 
-[![Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao) 
-[![Community](https://discord.com/api/guilds/790101969413865472/widget.png?style=banner2)]( https://discord.com/invite/RATJsSGM9d)
+[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao) 
 
 <hr />
 

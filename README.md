@@ -130,5 +130,5 @@
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
-    <a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest</a> at my Campus 
+    <a href="https://githubfieldday.com">GitHub Field Day Philippines 2023</a>
 </details> 

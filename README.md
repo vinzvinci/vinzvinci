@@ -130,5 +130,6 @@
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
+    <p>DFCAMCLP - Satellite Hackathon 2022</p>
     <a href="https://githubfieldday.com">GitHub Field Day Philippines 2023</a>
 </details> 

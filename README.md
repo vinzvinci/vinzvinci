@@ -25,7 +25,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-<p align="center">vinz is tired and will rest until january 2</p> 
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/102242602-316d5f00-3f35-11eb-8bfa-bab9ccf25ae9.png">
 
 <p align="center">

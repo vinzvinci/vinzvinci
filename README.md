@@ -56,9 +56,8 @@
 <h2 align="center">Current Roles</h2>
 <table>
   <tr>
-    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white" width="350px" height="30px"></a></th>
-    <th><a href="https://github.com/dev-protocol"><img src="https://custom-icon-badges.herokuapp.com/badge/Program Manager-black.svg?logo=devprtcl" height="34px"></a></th>
-    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" height="30px"></a></th>
+    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white" width="100%" height="30px"></a></th>
+    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" width="100%" height="30px"></a></th>
   </tr>
   <table>
   <tr>

@@ -45,12 +45,42 @@
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
-<h2 align="center">Hey there :wave:</h2>
 <p align="center">
     Hi, I'm Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. My passion lies in building strong relationships within the developer community, and I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed at promoting the widespread use and accessibility of open source technology.<br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />
+
+### Testimonials
+
+<table>
+  <tr>
+    <th>Author</th>
+    <th>Message</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/eddiejaoude">Eddie Jaoude</a></td>
+    <td>Vincent is very collaborative and super helpful in the EddieHub community! Vincent is always learning and keen to share these new skills with everyone else. Vincent is a valued member of the EddieHub community.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/bryson-ui">Bryson M.</a></td>
+    <td>It is with much enthusiasm that I recommend Vincent Villafuerte for his skills in Community Management, Github project management and his leadership skills.
+I have worked with him on a number of projects both on EddieHub Community and the Surpath Commmunity he displays a level of creativity, wit, and analytical thought.
+His project management and research skills are truly phenomenal. He inspires others to do great things.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/ritvikshukla">Ritvik Shukla</a></td>
+    <td>Vincent is a great mentor, founder and friend. He is always ready to share his knowledge and collaborate with folks in WebXDAO. He also have some other great achievements. His love for Open Source and GitHub, always inspire me to contribute more to the community.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/christian-igbaras">Christian Igbaras</a></td>
+    <td>As a developer relations lead and open-source advocate, Vincent Villafuerte would be an invaluable asset. His passion for technology and ability to identify and solve complex problems make him stand out in his field. I highly recommend Vincent for any project that requires a dedicated, enthusiastic, and skilled professional.</td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://www.linkedin.com/in/ryjin210">Mark Ryan Jancorda</a></td>
+    <td>Vincent is a really good partner to work with. We are both a part of the GitHub Field Day Core Team and He showed hospitality whenever the time its suited. He also reflects as a good role model for future campus experts as he mentors them during his free time and allotted time. It's been a great opportunity working alongside with Vincent</td>
+  </tr>
+</table>
 
 <h2>Community Hangouts</h2>
 
@@ -107,12 +137,6 @@
     - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
     - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
     - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
-</details>
-
-<details><summary>Moving my Blog ✨</summary><br>
-    - <a href="https://dev.to/vinzvinci/helping-you-to-build-your-personal-brand-in-tech-35df">Helping you to build your Personal Brand in Tech</a><br>
-    - <a href="https://dev.to/devprotocol/helping-your-favorite-open-source-project-with-stakes-social-dc8">Helping your favorite Open Source Project with Stakes.social</a><br>
-    - <a href="https://dev.to/webxdao/introducing-web-3-community-3co5">Introducing Web3 Community</a>
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>

@@ -37,9 +37,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.instagram.com/vinzvinci/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/vinzvinci"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/vinzvinci/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <p align="center">Nominate me as <a href="https://stars.github.com/nominate/">GitHub Star⭐</a> by typing my username: <strong>vinzvinci</strong></p>
@@ -48,23 +47,10 @@
  
 <h2 align="center">Hey there :wave:</h2>
 <p align="center">
-    My name is Vincent Villafuerte also known as <strong>vinzvinci</strong>. I'm trying to bring more folks here in GitHub :octocat: and use it to record their tech journey and bring their friends to collaborate with some projects 🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    Hi, I'm Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. My passion lies in building strong relationships within the developer community, and I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed at promoting the widespread use and accessibility of open source technology.<br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
 </p>
 
 <hr />
-
-<h2 align="center">Current Roles</h2>
-<table>
-  <tr>
-    <th><a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white" width="100%" height="30px"></a></th>
-    <th><a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white" width="100%" height="30px"></a></th>
-  </tr>
-  <table>
-  <tr>
-    <td align="center">These roles make me more motivated to continue what I love and help more people in different communities. These roles are also the reasons why I choose Developer Relations field. <hr>Find your campus expert: <a href="https://githubcampus.expert/experts">https://githubcampus.expert/experts</a></td>
-  </tr>
-  </table>
-</table>
 
 <h2>Community Hangouts</h2>
 
@@ -130,6 +116,5 @@
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
-    <p>DFCAMCLP - Satellite Hackathon 2022</p>
     <a href="https://githubfieldday.com">GitHub Field Day Philippines 2023</a>
 </details> 

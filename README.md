@@ -109,6 +109,5 @@ His project management and research skills are truly phenomenal. He inspires oth
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
-    [Soon - July 8, 2023] InfoSession for Students at Makati<br> 
     <a href="https://githubfieldday.com">GitHub Field Day Philippines 2023</a>
 </details> 

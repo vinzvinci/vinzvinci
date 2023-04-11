@@ -46,7 +46,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p align="center">
-    Hi, I'm Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. My passion lies in building strong relationships within the developer community, and I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed at promoting the widespread use and accessibility of open source technology.<br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://twitter.com/vinzvinci">Twitter</a>. 
+    Hi, I'm Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. My passion lies in building strong relationships within the developer community, and I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed at promoting the widespread use and accessibility of open source technology.<br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://github.com/vinzvinci/vinzvinci/issues/22">ask here</a>. 
 </p>
 
 <hr />

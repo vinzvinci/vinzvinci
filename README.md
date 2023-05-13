@@ -105,7 +105,7 @@ His project management and research skills are truly phenomenal. He inspires oth
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
     - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
     - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
-    - 5. <a href="https://github.com/EddieHubCommunity/support/discussions/854">All about hackathon</a>
+    - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">WebXGuild - Event Hub for Open Source Organizations</a>
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>

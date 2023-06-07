@@ -40,8 +40,7 @@
 <a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-
-<p align="center">Nominate me as <a href="https://stars.github.com/nominate/">GitHub Star⭐</a> by typing my username: <strong>vinzvinci</strong></p>
+    
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  

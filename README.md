@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Join%20WebX%20DAO;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Busy%20working%20for%20my%20startup%20;Join%20WebX%20DAO;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other;&center=true&width=470&height=45"></a>
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
 <p align="center">
-    Hi, I'm Vincent, a dedicated and experienced GitHub Field Expert and Open Source Advocate. My passion lies in building strong relationships within the developer community, and I am the proud founder of both WebX DAO and SurPath Hub, two open-source communities aimed at promoting the widespread use and accessibility of open source technology.<br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://github.com/vinzvinci/vinzvinci/issues/22">ask here</a>. 
+    Hi, I'm Vincent (aka vinzvinci), a dedicated and experienced Developer Community Specialist and Open Source Advocate. My passion lies in building strong relationships within the developer community. I've volunteered for different companies and organizations like GitHub and Microsoft, as well as other open-source communities out there. I've been also involved in numerous tech events as part of my passion, whether they were virtual or in-person. <br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://github.com/vinzvinci/vinzvinci/issues/22">ask here</a>. 
 </p>
 
 <hr />
@@ -108,6 +108,7 @@ His project management and research skills are truly phenomenal. He inspires oth
 </details>
 
 <details><summary>Currently Planning Event✨</summary><br>
-    - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2023</a><br />
-    - <a href="https://githubuniverse.com/">GitHub Universe Watch Party</a>
+    - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
+    - <a href="https://githubuniverse.com/">GitHub Universe Watch Party 2023</a><br />
+    - <a href="#">WebXHack Manila 2024</a>
 </details> 

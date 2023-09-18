@@ -41,6 +41,10 @@
 <a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
+<p align="center">
+Check my <a href="https://github.com/vinzvinci-archive">past personal projects 💻</a>
+</p>
+
 <!--Trap--:)-->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  
@@ -112,5 +116,3 @@ His project management and research skills are truly phenomenal. He inspires oth
     - <a href="https://githubuniverse.com/">GitHub Universe Watch Party 2023</a><br />
     - <a href="#">WebXHack Manila 2024</a>
 </details> 
-
-Check my <a href="https://github.com/vinzvinci-archive">past personal projects</a>

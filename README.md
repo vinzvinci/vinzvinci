@@ -95,14 +95,6 @@ His project management and research skills are truly phenomenal. He inspires oth
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fps7r52ty4wscjvf772apma&cover_image=true&theme=novatorem&show_offline=false&background_color=501cba&interchange=false)](https://github.com/vinzvinci)
 
-<details><summary>Shout out and thank you to these awesome people 🏆</summary>
-    - <a href="https://github.com/eddiejaoude">Eddie Jaoude</a><br /> 
-    - <a href="https://github.com/nhcarrigan">Nicholas Carrigan</a><br />
-    - <a href="https://github.com/DenverCoder1">Jonah Lawrence</a><br />
-    - <a href="https://github.com/juanpflores">Juan Pablo Flores</a><br />
-    - <a href="https://twitter.com/iampablo?lang=en">Pablo Veramendi</a>
-</details>
-
 <details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
     - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 

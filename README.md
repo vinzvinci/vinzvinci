@@ -53,6 +53,8 @@ Check my <a href="https://github.com/vinzvinci-archive">past personal projects �
     Hi, I'm Vincent (aka vinzvinci), a dedicated and experienced Developer Community Specialist and Open Source Advocate. My passion lies in building strong relationships within the developer community. I've volunteered for different companies and organizations like GitHub and Microsoft, as well as other open-source communities out there. I've been also involved in numerous tech events as part of my passion, whether they were virtual or in-person. <br><br>🖤 Have some questions or need help? Message me on <a href="https://www.linkedin.com/in/vinzvinci/">LinkedIn</a> or <a href="https://github.com/vinzvinci/vinzvinci/issues/22">ask here</a>. 
 </p>
 
+[![mecommunitydevice](https://github.com/vinzvinci/vinzvinci/assets/73097560/f7bdd9cd-616b-444c-aca7-4904137d9a6b)](https://vinzvinciweb.vercel.app/) 
+
 <hr />
 
 ### Testimonials
@@ -90,7 +92,7 @@ His project management and research skills are truly phenomenal. He inspires oth
 
 <p>Build with us, the future of web.</p> 
 
-[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao) 
+[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao)
 
 <hr />
     
@@ -104,8 +106,8 @@ His project management and research skills are truly phenomenal. He inspires oth
     - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">WebXGuild - Event Hub for Open Source Organizations</a>
 </details>
 
-<details><summary>Currently Planning Event✨</summary><br>
-    - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
+<details><summary>Planning for these events ✨</summary><br>
     - <a href="https://githubuniverse.com/">GitHub Universe Watch Party 2023</a><br />
+    - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
     - <a href="#">WebXHack Manila 2024</a>
 </details> 

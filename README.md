@@ -37,8 +37,9 @@
 </p>
 
 <p align="center">
-<a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert 🚩-800080?style=for-the-badge&logo=github&logoColor=white">
-<a href="https://studentambassadors.microsoft.com/en-US/profile/92741"><img src="https://img.shields.io/badge/Microsoft Learn Student Ambassador-003399?style=for-the-badge&logo=windows-xp&logoColor=white"></a>
+<a href="https://githubcampus.expert/vinzvinci/"><img src="https://img.shields.io/badge/GitHub Field Expert -800080?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.facebook.com/gceph/"><img src="https://img.shields.io/badge/GitHub Campus Expert PH 🚩-ff0000?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.facebook.com/GHFieldDayPH"><img src="https://img.shields.io/badge/GitHub Field Day PH-800080?style=for-the-badge&logo=github&logoColor=white">
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <p align="center">

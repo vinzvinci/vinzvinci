@@ -96,8 +96,7 @@ His project management and research skills are truly phenomenal. He inspires oth
 
 <hr />
     
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fps7r52ty4wscjvf772apma&cover_image=true&theme=novatorem&show_offline=false&background_color=501cba&interchange=false)](https://github.com/vinzvinci)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
 <details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
     - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 

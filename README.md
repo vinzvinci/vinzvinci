@@ -106,7 +106,5 @@ His project management and research skills are truly phenomenal. He inspires oth
 </details>
 
 <details><summary>Planning for these events ✨</summary><br>
-    - <a href="https://githubuniverse.com/">GitHub Universe Watch Party 2023</a><br />
     - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
-    - <a href="#">WebXHack Manila 2024</a>
 </details> 

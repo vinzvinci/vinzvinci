@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Follow%20our%20community%20below%20👇;Join%20WebX%20DAO;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other!;&center=true&width=470&height=45"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=OPEN%20SOURCE%20FOR%20THE%20WIN!;Follow%20our%20community%20below%20👇;Join%20GitHub%20Field%20Day;Collaboration%201st,%20Code%202nd.;Community%20make%20things%20easier;You%20don't%20have%20to%20be%20an%20expert%20to%20teach;Let's%20support%20each%20other!;&center=true&width=470&height=45"></a>
 </p>
 
 <p align="center">
@@ -110,4 +110,4 @@ His project management and research skills are truly phenomenal. He inspires oth
 </details> 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 140vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/vinzvinci/vinzvinci/main/gfd_event_banner.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: repeat-x; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/vinzvinci/vinzvinci/main/gfd_event_banner.png');]{x0000}$}

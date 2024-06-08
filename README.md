@@ -110,4 +110,4 @@ His project management and research skills are truly phenomenal. He inspires oth
 </details> 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; background-repeat: repeat-x; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/vinzvinci/vinzvinci/main/gfd_event_banner.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/vinzvinci/vinzvinci/main/gfd_event_banner.png');]{x0000}$}

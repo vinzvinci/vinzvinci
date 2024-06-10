@@ -108,6 +108,3 @@ His project management and research skills are truly phenomenal. He inspires oth
 <details><summary>Planning for these events ✨</summary><br>
     - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
 </details> 
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/vinzvinci/vinzvinci/main/gfd_event_banner.png');]{x0000}$}

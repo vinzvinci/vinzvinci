@@ -87,14 +87,6 @@ His project management and research skills are truly phenomenal. He inspires oth
     <td>Vincent is a really good partner to work with. We are both a part of the GitHub Field Day Core Team and He showed hospitality whenever the time its suited. He also reflects as a good role model for future campus experts as he mentors them during his free time and allotted time. It's been a great opportunity working alongside with Vincent</td>
   </tr>
 </table>
-
-<h2>Community Hangouts</h2>
-
-<p>Build with us, the future of web.</p> 
-
-[![Discord Community](https://discord.com/api/guilds/835424705410236427/widget.png?style=banner2)](https://dsc.gg/webxdao)
-
-<hr />
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
 <details><summary>Top 5 Community Discussions 🥇:octocat:</summary>

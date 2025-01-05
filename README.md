@@ -103,7 +103,3 @@ His project management and research skills are truly phenomenal. He inspires oth
 - 💵 Received 100k worth of $DEV for my Open Source Contributions.
 - 🥈 2nd place on Hack You Hackathon
 - 🥉 3rd place on Dev Dapp Starter Grants
-
-<details><summary>Planning for these events ✨</summary><br>
-    - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
-</details> 

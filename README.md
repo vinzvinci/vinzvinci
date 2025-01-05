@@ -84,12 +84,12 @@ His project management and research skills are truly phenomenal. He inspires oth
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/ryjin210">Mark Ryan Jancorda</a></td>
-    <td>Vincent is a really good partner to work with. We are both a part of the GitHub Field Day Core Team and He showed hospitality whenever the time its suited. He also reflects as a good role model for future campus experts as he mentors them during his free time and allotted time. It's been a great opportunity working alongside with Vincent</td>
+    <td>Vincent is an outstanding partner to collaborate with. As fellow members of the GitHub Field Day Core Team and GitHub Education, I’ve witnessed his exceptional hospitality and unwavering support whenever the situation calls for it. He exemplifies the qualities of a great role model for future campus experts and aspiring developers, dedicating his free time and scheduled hours to mentor and guide them. Working alongside Vincent on various projects and events has been an enriching and rewarding experience.</td>
   </tr>
 </table>
     
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
-<details><summary>Top 5 Community Discussions 🥇:octocat:</summary>
+<details><summary>Top 5 Community Discussions 🥇:octocat: </summary>
     - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
     - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
     - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 

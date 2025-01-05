@@ -97,6 +97,14 @@ His project management and research skills are truly phenomenal. He inspires oth
     - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">Guidlify - Event Hub for Open Source Community</a>
 </details>
 
+### Hackathon & Grant
+- 🏆 Encode x Filecoin Accelerator
+- 🥇 POLYGON BUIDL IT Hackathon Winner
+![image](https://github.com/user-attachments/assets/c0bfcb25-ed95-4245-bdc3-b437f54f23ff)
+- 💵Received 100k worth of $DEV for my Open Source Contributions.
+- 🥈2nd place on Hack You Hackathon
+- 🥉3rd place on Dev Dapp Starter Grants
+
 <details><summary>Planning for these events ✨</summary><br>
     - <a href="https://githubfieldday.com">GitHub Field Day Philippines 2024</a><br />
 </details> 

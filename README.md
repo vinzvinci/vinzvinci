@@ -103,3 +103,10 @@ His project management and research skills are truly phenomenal. He inspires oth
 - 💵 Received 100k worth of $DEV for my Open Source Contributions.
 - 🥈 2nd place on Hack You Hackathon
 - 🥉 3rd place on Dev Dapp Starter Grants
+
+### [2021 Most Active Open Source Contributions](https://github.com/vinzvinci?tab=overview&from=2021-12-01&to=2021-12-31)
+
+All thanks to my dev friends, previous team and collaborators for joining me on my journey. I missed you all 💚
+
+![image](https://github.com/user-attachments/assets/2343ee84-43b7-4c21-abfa-8a3190472e41)
+

@@ -87,15 +87,6 @@ His project management and research skills are truly phenomenal. He inspires oth
     <td>Vincent is an outstanding partner to collaborate with. As fellow members of the GitHub Field Day Core Team and GitHub Education, I’ve witnessed his exceptional hospitality and unwavering support whenever the situation calls for it. He exemplifies the qualities of a great role model for future campus experts and aspiring developers, dedicating his free time and scheduled hours to mentor and guide them. Working alongside Vincent on various projects and events has been an enriching and rewarding experience.</td>
   </tr>
 </table>
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
-<details><summary>Top 5 Community Discussions 🥇:octocat: </summary>
-    - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
-    - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
-    - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
-    - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
-    - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">Guidlify - Event Hub for Open Source Community</a>
-</details>
 
 ### Hackathon & Grant
 - 🏆 Encode x Filecoin Accelerator
@@ -110,3 +101,14 @@ All thanks to my dev friends, previous team and collaborators for joining me on 
 
 ![image](https://github.com/user-attachments/assets/2343ee84-43b7-4c21-abfa-8a3190472e41)
 
+<details><summary>GitHub Stats 🟩 </summary>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
+</details>
+
+<details><summary>Top 5 Community Discussions 🥇 </summary>
+    - 1. <a href="https://github.com/EddieHubCommunity/support/discussions/1779">EddieHub Open Source Ambassador</a><br /> 
+    - 2. <a href="https://github.com/EddieHubCommunity/support/discussions/1710">EddieHub Modules</a><br /> 
+    - 3. <a href="https://github.com/EddieHubCommunity/support/discussions/780">EddieHub Open Source SWAG</a><br /> 
+    - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
+    - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">Guidlify - Event Hub for Open Source Community</a>
+</details>

@@ -102,7 +102,7 @@ All thanks to my dev friends, previous team and collaborators for joining me on 
 ![image](https://github.com/user-attachments/assets/2343ee84-43b7-4c21-abfa-8a3190472e41)
 
 <details><summary>GitHub Stats 🟩 </summary>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinzvinci&theme=radical"> 
+<img src="https://github-readme-stats.vercel.app/api?username=vinzvinci&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for vinzvinci" width="700">
 </details>
 
 <details><summary>Top 5 Community Discussions 🥇 </summary>

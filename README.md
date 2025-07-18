@@ -43,7 +43,7 @@
 <a href="https://dev.to/vinzvinci//"><img alt="dev.to" title="My Dev Blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 
 <p align="center">
-Check my <a href="https://github.com/vinzvinci-archive">past personal projects 💻</a>
+Check my <a href="https://vinzvincidev.vercel.app">portfolio website 💻</a>
 </p>
 
 <!--Trap--:)-->

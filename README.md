@@ -112,7 +112,3 @@ All thanks to my dev friends, previous team and collaborators for joining me on 
     - 4. <a href="https://github.com/EddieHubCommunity/support/discussions/604s">EddieHub Events Calendar</a><br /> 
     - 5. <a href="https://github.com/orgs/WebXDAO/discussions/421">Guidlify - Event Hub for Open Source Community</a>
 </details>
-
-<details><summary>Currently Working On</summary>
-    - 1. Customizing my Portfolio using Once UI https://vinzvincidev.vercel.app/
-</details>
